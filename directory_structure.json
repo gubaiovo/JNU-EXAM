@@ -1613,6 +1613,243 @@
       ]
     },
     {
+      "name": "资料",
+      "path": "大一下/离散数学/资料",
+      "files": [
+        {
+          "name": "0离散数学课程介绍.pdf",
+          "path": "大一下/离散数学/资料/0离散数学课程介绍.pdf",
+          "size": 387862,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/0离散数学课程介绍.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/0离散数学课程介绍.pdf"
+        },
+        {
+          "name": "1-1和1-2命题逻辑.pdf",
+          "path": "大一下/离散数学/资料/1-1和1-2命题逻辑.pdf",
+          "size": 645152,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-1和1-2命题逻辑.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-1和1-2命题逻辑.pdf"
+        },
+        {
+          "name": "1-3命题公式及其真值表.pdf",
+          "path": "大一下/离散数学/资料/1-3命题公式及其真值表.pdf",
+          "size": 358239,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-3命题公式及其真值表.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-3命题公式及其真值表.pdf"
+        },
+        {
+          "name": "1-4命题公式的等价.pdf",
+          "path": "大一下/离散数学/资料/1-4命题公式的等价.pdf",
+          "size": 195785,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-4命题公式的等价.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-4命题公式的等价.pdf"
+        },
+        {
+          "name": "1-5重言式与蕴含式.pdf",
+          "path": "大一下/离散数学/资料/1-5重言式与蕴含式.pdf",
+          "size": 381515,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-5重言式与蕴含式.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-5重言式与蕴含式.pdf"
+        },
+        {
+          "name": "1-6其他联结词.pdf",
+          "path": "大一下/离散数学/资料/1-6其他联结词.pdf",
+          "size": 422375,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-6其他联结词.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-6其他联结词.pdf"
+        },
+        {
+          "name": "1-7对偶与范式.pdf",
+          "path": "大一下/离散数学/资料/1-7对偶与范式.pdf",
+          "size": 557351,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-7对偶与范式.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-7对偶与范式.pdf"
+        },
+        {
+          "name": "1-8推理理论.pdf",
+          "path": "大一下/离散数学/资料/1-8推理理论.pdf",
+          "size": 534059,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/1-8推理理论.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/1-8推理理论.pdf"
+        },
+        {
+          "name": "2-1谓词概念与表示.pdf",
+          "path": "大一下/离散数学/资料/2-1谓词概念与表示.pdf",
+          "size": 283127,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-1谓词概念与表示.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-1谓词概念与表示.pdf"
+        },
+        {
+          "name": "2-2量词.pdf",
+          "path": "大一下/离散数学/资料/2-2量词.pdf",
+          "size": 310196,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-2量词.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-2量词.pdf"
+        },
+        {
+          "name": "2-3谓词公式及翻译.pdf",
+          "path": "大一下/离散数学/资料/2-3谓词公式及翻译.pdf",
+          "size": 249594,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-3谓词公式及翻译.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-3谓词公式及翻译.pdf"
+        },
+        {
+          "name": "2-4变元的约束.pdf",
+          "path": "大一下/离散数学/资料/2-4变元的约束.pdf",
+          "size": 236991,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-4变元的约束.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-4变元的约束.pdf"
+        },
+        {
+          "name": "2-5谓词演算的等价与蕴涵.pdf",
+          "path": "大一下/离散数学/资料/2-5谓词演算的等价与蕴涵.pdf",
+          "size": 304283,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-5谓词演算的等价与蕴涵.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-5谓词演算的等价与蕴涵.pdf"
+        },
+        {
+          "name": "2-6前束范式.pdf",
+          "path": "大一下/离散数学/资料/2-6前束范式.pdf",
+          "size": 240380,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-6前束范式.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-6前束范式.pdf"
+        },
+        {
+          "name": "2-7谓词演算的推理理论.pdf",
+          "path": "大一下/离散数学/资料/2-7谓词演算的推理理论.pdf",
+          "size": 345587,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/2-7谓词演算的推理理论.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/2-7谓词演算的推理理论.pdf"
+        },
+        {
+          "name": "3-10等价关系与等价类.pdf",
+          "path": "大一下/离散数学/资料/3-10等价关系与等价类.pdf",
+          "size": 372317,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-10等价关系与等价类.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-10等价关系与等价类.pdf"
+        },
+        {
+          "name": "3-11相容关系.pdf",
+          "path": "大一下/离散数学/资料/3-11相容关系.pdf",
+          "size": 286150,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-11相容关系.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-11相容关系.pdf"
+        },
+        {
+          "name": "3-12序关系.pdf",
+          "path": "大一下/离散数学/资料/3-12序关系.pdf",
+          "size": 522274,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-12序关系.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-12序关系.pdf"
+        },
+        {
+          "name": "3-1到3-4集合论初步.pdf",
+          "path": "大一下/离散数学/资料/3-1到3-4集合论初步.pdf",
+          "size": 1186041,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-1到3-4集合论初步.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-1到3-4集合论初步.pdf"
+        },
+        {
+          "name": "3-5关系的概念及其表示法.pdf",
+          "path": "大一下/离散数学/资料/3-5关系的概念及其表示法.pdf",
+          "size": 551738,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-5关系的概念及其表示法.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-5关系的概念及其表示法.pdf"
+        },
+        {
+          "name": "3-6关系的性质.pdf",
+          "path": "大一下/离散数学/资料/3-6关系的性质.pdf",
+          "size": 399642,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-6关系的性质.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-6关系的性质.pdf"
+        },
+        {
+          "name": "3-7复合关系和逆关系.pdf",
+          "path": "大一下/离散数学/资料/3-7复合关系和逆关系.pdf",
+          "size": 393864,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-7复合关系和逆关系.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-7复合关系和逆关系.pdf"
+        },
+        {
+          "name": "3-8关系的闭包运算.pdf",
+          "path": "大一下/离散数学/资料/3-8关系的闭包运算.pdf",
+          "size": 348270,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-8关系的闭包运算.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-8关系的闭包运算.pdf"
+        },
+        {
+          "name": "3-9集合的划分和覆盖.pdf",
+          "path": "大一下/离散数学/资料/3-9集合的划分和覆盖.pdf",
+          "size": 300088,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/3-9集合的划分和覆盖.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/3-9集合的划分和覆盖.pdf"
+        },
+        {
+          "name": "7-1图的基本概念.pdf",
+          "path": "大一下/离散数学/资料/7-1图的基本概念.pdf",
+          "size": 825905,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-1图的基本概念.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-1图的基本概念.pdf"
+        },
+        {
+          "name": "7-2路与回路.pdf",
+          "path": "大一下/离散数学/资料/7-2路与回路.pdf",
+          "size": 1335427,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-2路与回路.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-2路与回路.pdf"
+        },
+        {
+          "name": "7-3图的矩阵表示.pdf",
+          "path": "大一下/离散数学/资料/7-3图的矩阵表示.pdf",
+          "size": 854707,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-3图的矩阵表示.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-3图的矩阵表示.pdf"
+        },
+        {
+          "name": "7-4欧拉图与汉密尔顿图.pdf",
+          "path": "大一下/离散数学/资料/7-4欧拉图与汉密尔顿图.pdf",
+          "size": 1389385,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-4欧拉图与汉密尔顿图.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-4欧拉图与汉密尔顿图.pdf"
+        },
+        {
+          "name": "7-5平面图.pdf",
+          "path": "大一下/离散数学/资料/7-5平面图.pdf",
+          "size": 477978,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-5平面图.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-5平面图.pdf"
+        },
+        {
+          "name": "7-6对偶图与着色.pdf",
+          "path": "大一下/离散数学/资料/7-6对偶图与着色.pdf",
+          "size": 516794,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-6对偶图与着色.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-6对偶图与着色.pdf"
+        },
+        {
+          "name": "7-7树与生成树.pdf",
+          "path": "大一下/离散数学/资料/7-7树与生成树.pdf",
+          "size": 969033,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-7树与生成树.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-7树与生成树.pdf"
+        },
+        {
+          "name": "7-8根树及其应用.pdf",
+          "path": "大一下/离散数学/资料/7-8根树及其应用.pdf",
+          "size": 710353,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/7-8根树及其应用.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/7-8根树及其应用.pdf"
+        },
+        {
+          "name": "离散数学【蜂考突击课】(1).pdf",
+          "path": "大一下/离散数学/资料/离散数学【蜂考突击课】(1).pdf",
+          "size": 9095928,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/离散数学/资料/离散数学【蜂考突击课】(1).pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/离散数学/资料/离散数学【蜂考突击课】(1).pdf"
+        }
+      ]
+    },
+    {
       "name": "离散数学二",
       "path": "大一下/离散数学二",
       "files": [
@@ -2593,7 +2830,7 @@
     {
       "name": "directory_structure.json",
       "path": "directory_structure.json",
-      "size": 163017,
+      "size": 163033,
       "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json",
       "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/directory_structure.json"
     },
