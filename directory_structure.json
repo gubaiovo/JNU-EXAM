@@ -2838,13 +2838,6 @@
   ],
   "files": [
     {
-      "name": "directory_structure.json",
-      "path": "directory_structure.json",
-      "size": 177627,
-      "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json",
-      "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/directory_structure.json"
-    },
-    {
       "name": "LICENSE",
       "path": "LICENSE",
       "size": 1062,
