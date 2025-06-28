@@ -26,6 +26,13 @@
           "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/乱七八糟的资料/自证：证明半正定矩阵的所有主子式非负.pdf"
         },
         {
+          "name": "运筹作业.rar",
+          "path": "乱七八糟的资料/运筹作业.rar",
+          "size": 15376651,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/乱七八糟的资料/运筹作业.rar",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/乱七八糟的资料/运筹作业.rar"
+        },
+        {
           "name": "高数下【蜂考系统课】.pdf",
           "path": "乱七八糟的资料/高数下【蜂考系统课】.pdf",
           "size": 18603678,
@@ -288,6 +295,33 @@
           "size": 4966133,
           "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/C++/C++练习题(1)(1)_240112_121403(1).pdf",
           "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/C++/C++练习题(1)(1)_240112_121403(1).pdf"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "path": "大一下/Python",
+      "files": [
+        {
+          "name": "(完整版)Python题库-8fb056725a0216fc700abb68a98271fe910.doc",
+          "path": "大一下/Python/(完整版)Python题库-8fb056725a0216fc700abb68a98271fe910.doc",
+          "size": 41578,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/Python/(完整版)Python题库-8fb056725a0216fc700abb68a98271fe910.doc",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/Python/(完整版)Python题库-8fb056725a0216fc700abb68a98271fe910.doc"
+        },
+        {
+          "name": "2025Python程序设计基础期中小测试.doc",
+          "path": "大一下/Python/2025Python程序设计基础期中小测试.doc",
+          "size": 275853,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/Python/2025Python程序设计基础期中小测试.doc",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/Python/2025Python程序设计基础期中小测试.doc"
+        },
+        {
+          "name": "《Python程序设计基础（第3版）》各章节习题.pdf",
+          "path": "大一下/Python/《Python程序设计基础（第3版）》各章节习题.pdf",
+          "size": 374616,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/Python/《Python程序设计基础（第3版）》各章节习题.pdf",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/Python/《Python程序设计基础（第3版）》各章节习题.pdf"
         }
       ]
     },
@@ -1025,6 +1059,40 @@
           "size": 184320,
           "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/工程制图 I/练习/工图模拟试卷03.doc",
           "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/工程制图 I/练习/工图模拟试卷03.doc"
+        }
+      ]
+    },
+    {
+      "name": "微分几何",
+      "path": "大一下/微分几何",
+      "files": [
+        {
+          "name": "IMG_20250603_152457.jpg",
+          "path": "大一下/微分几何/IMG_20250603_152457.jpg",
+          "size": 2855370,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/微分几何/IMG_20250603_152457.jpg",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/微分几何/IMG_20250603_152457.jpg"
+        },
+        {
+          "name": "IMG_20250603_161742.jpg",
+          "path": "大一下/微分几何/IMG_20250603_161742.jpg",
+          "size": 2855338,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/微分几何/IMG_20250603_161742.jpg",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/微分几何/IMG_20250603_161742.jpg"
+        },
+        {
+          "name": "IMG_20250603_164225.jpg",
+          "path": "大一下/微分几何/IMG_20250603_164225.jpg",
+          "size": 2925257,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/微分几何/IMG_20250603_164225.jpg",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/微分几何/IMG_20250603_164225.jpg"
+        },
+        {
+          "name": "IMG_20250606_080453.jpg",
+          "path": "大一下/微分几何/IMG_20250606_080453.jpg",
+          "size": 3091923,
+          "github_raw_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/大一下/微分几何/IMG_20250606_080453.jpg",
+          "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/大一下/微分几何/IMG_20250606_080453.jpg"
         }
       ]
     },
@@ -2834,6 +2902,186 @@
           "gitee_raw_url": "https://gitee.com/gubaiovo/jnu-exam/raw/main/存疑资料/大一下/高等数学/江南大学《高等数学下》2019-2020学年期末试卷.pdf"
         }
       ]
+    },
+    {
+      "name": "科目",
+      "path": "科目",
+      "files": []
+    },
+    {
+      "name": "C++",
+      "path": "科目/C++",
+      "files": []
+    },
+    {
+      "name": "中国近代史纲要",
+      "path": "科目/中国近代史纲要",
+      "files": []
+    },
+    {
+      "name": "复变函数与积分变换",
+      "path": "科目/复变函数与积分变换",
+      "files": []
+    },
+    {
+      "name": "大学物理 I",
+      "path": "科目/大学物理 I",
+      "files": []
+    },
+    {
+      "name": "大学物理 II",
+      "path": "科目/大学物理 II",
+      "files": []
+    },
+    {
+      "name": "大学物理 III",
+      "path": "科目/大学物理 III",
+      "files": []
+    },
+    {
+      "name": "大学英语",
+      "path": "科目/大学英语",
+      "files": []
+    },
+    {
+      "name": "思想道德与法治",
+      "path": "科目/思想道德与法治",
+      "files": []
+    },
+    {
+      "name": "数值分析",
+      "path": "科目/数值分析",
+      "files": []
+    },
+    {
+      "name": "数字电子技术",
+      "path": "科目/数字电子技术",
+      "files": []
+    },
+    {
+      "name": "数学分析 I",
+      "path": "科目/数学分析 I",
+      "files": []
+    },
+    {
+      "name": "数据结构",
+      "path": "科目/数据结构",
+      "files": []
+    },
+    {
+      "name": "文学概论",
+      "path": "科目/文学概论",
+      "files": []
+    },
+    {
+      "name": "有机化学",
+      "path": "科目/有机化学",
+      "files": []
+    },
+    {
+      "name": "概率论与数理统计",
+      "path": "科目/概率论与数理统计",
+      "files": []
+    },
+    {
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "path": "科目/毛泽东思想和中国特色社会主义理论体系概论",
+      "files": []
+    },
+    {
+      "name": "现代汉语",
+      "path": "科目/现代汉语",
+      "files": []
+    },
+    {
+      "name": "电力系统分析",
+      "path": "科目/电力系统分析",
+      "files": []
+    },
+    {
+      "name": "电子商务",
+      "path": "科目/电子商务",
+      "files": []
+    },
+    {
+      "name": "病理学",
+      "path": "科目/病理学",
+      "files": []
+    },
+    {
+      "name": "离散数学",
+      "path": "科目/离散数学",
+      "files": []
+    },
+    {
+      "name": "离散数学二",
+      "path": "科目/离散数学二",
+      "files": []
+    },
+    {
+      "name": "线性代数",
+      "path": "科目/线性代数",
+      "files": []
+    },
+    {
+      "name": "线性代数 II",
+      "path": "科目/线性代数 II",
+      "files": []
+    },
+    {
+      "name": "编译原理",
+      "path": "科目/编译原理",
+      "files": []
+    },
+    {
+      "name": "自动控制原理",
+      "path": "科目/自动控制原理",
+      "files": []
+    },
+    {
+      "name": "计算机组成原理",
+      "path": "科目/计算机组成原理",
+      "files": []
+    },
+    {
+      "name": "面向对象程序设计",
+      "path": "科目/面向对象程序设计",
+      "files": []
+    },
+    {
+      "name": "马克思主义基本原理",
+      "path": "科目/马克思主义基本原理",
+      "files": []
+    },
+    {
+      "name": "高等代数 I",
+      "path": "科目/高等代数 I",
+      "files": []
+    },
+    {
+      "name": "高等数学",
+      "path": "科目/高等数学",
+      "files": []
+    },
+    {
+      "name": "高等数学 I",
+      "path": "科目/高等数学 I",
+      "files": []
+    },
+    {
+      "name": "高等数学 II",
+      "path": "科目/高等数学 II",
+      "files": []
+    },
+    {
+      "name": "高等数学 其他",
+      "path": "科目/高等数学 其他",
+      "files": []
+    },
+    {
+      "name": "高级英语",
+      "path": "科目/高级英语",
+      "files": []
     }
   ],
   "files": [
