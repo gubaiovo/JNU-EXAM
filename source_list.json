@@ -6,9 +6,5 @@
     "Cloudflare R2": {
         "json_url": "https://jnuexam.xyz/directory_structure.json",
         "file_key": "cf_url"
-    },
-    "RustFS 国内测试": {
-        "json_url": "http://files.jnuexam.xyz:9000/jnuexam/directory_structure.json",
-        "file_key": "rustfs_url"
     }
 }
