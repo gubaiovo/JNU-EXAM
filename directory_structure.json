@@ -6356,14 +6356,5 @@
       ]
     }
   ],
-  "files": [
-    {
-      "name": "directory_structure.txt",
-      "path": "directory_structure.txt",
-      "size": 668501,
-      "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/directory_structure.txt",
-      "cf_url": "https://jnuexam.xyz/directory_structure.txt",
-      "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/directory_structure.txt"
-    }
-  ]
+  "files": []
 }
