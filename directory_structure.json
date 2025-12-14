@@ -1,320 +1,8 @@
 {
   "dirs": [
     {
-      "name": "乱七八糟的资料",
-      "path": "乱七八糟的资料",
-      "files": [
-        {
-          "name": "r语言数据检验流程.md",
-          "path": "乱七八糟的资料/r语言数据检验流程.md",
-          "size": 339,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/r%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.md",
-          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/r%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.md",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/r%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.md"
-        },
-        {
-          "name": "未知年份线性代数(不知道I还是II)评分标准.pdf",
-          "path": "乱七八糟的资料/未知年份线性代数(不知道I还是II)评分标准.pdf",
-          "size": 4566642,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28%E4%B8%8D%E7%9F%A5%E9%81%93I%E8%BF%98%E6%98%AFII%29%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
-          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28%E4%B8%8D%E7%9F%A5%E9%81%93I%E8%BF%98%E6%98%AFII%29%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28%E4%B8%8D%E7%9F%A5%E9%81%93I%E8%BF%98%E6%98%AFII%29%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        },
-        {
-          "name": "自证：证明半正定矩阵的所有主子式非负.pdf",
-          "path": "乱七八糟的资料/自证：证明半正定矩阵的所有主子式非负.pdf",
-          "size": 1371499,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%87%AA%E8%AF%81%EF%BC%9A%E8%AF%81%E6%98%8E%E5%8D%8A%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5%E7%9A%84%E6%89%80%E6%9C%89%E4%B8%BB%E5%AD%90%E5%BC%8F%E9%9D%9E%E8%B4%9F.pdf",
-          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%87%AA%E8%AF%81%EF%BC%9A%E8%AF%81%E6%98%8E%E5%8D%8A%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5%E7%9A%84%E6%89%80%E6%9C%89%E4%B8%BB%E5%AD%90%E5%BC%8F%E9%9D%9E%E8%B4%9F.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%87%AA%E8%AF%81%EF%BC%9A%E8%AF%81%E6%98%8E%E5%8D%8A%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5%E7%9A%84%E6%89%80%E6%9C%89%E4%B8%BB%E5%AD%90%E5%BC%8F%E9%9D%9E%E8%B4%9F.pdf"
-        },
-        {
-          "name": "运筹作业.rar",
-          "path": "乱七八糟的资料/运筹作业.rar",
-          "size": 15376651,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E4%BD%9C%E4%B8%9A.rar",
-          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E4%BD%9C%E4%B8%9A.rar",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E4%BD%9C%E4%B8%9A.rar"
-        }
-      ]
-    },
-    {
-      "name": "其他学校",
-      "path": "其他学校",
-      "files": []
-    },
-    {
-      "name": "大一下",
-      "path": "其他学校/大一下",
-      "files": []
-    },
-    {
-      "name": "理论力学",
-      "path": "其他学校/大一下/理论力学",
-      "files": []
-    },
-    {
-      "name": "华南农业大学",
-      "path": "其他学校/大一下/理论力学/华南农业大学",
-      "files": [
-        {
-          "name": "理力试卷2000.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2000.pdf",
-          "size": 1184804,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72000.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72000.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72000.pdf"
-        },
-        {
-          "name": "理力试卷2001.wps",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2001.wps",
-          "size": 67897,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72001.wps",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72001.wps",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72001.wps"
-        },
-        {
-          "name": "理力试卷2002.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2002.pdf",
-          "size": 2398797,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72002.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72002.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72002.pdf"
-        },
-        {
-          "name": "理力试卷2004.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2004.pdf",
-          "size": 2409826,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72004.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72004.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72004.pdf"
-        },
-        {
-          "name": "理力试卷2005.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2005.pdf",
-          "size": 2439541,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72005.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72005.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72005.pdf"
-        },
-        {
-          "name": "理力试卷2006.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2006.pdf",
-          "size": 3094945,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006.pdf"
-        },
-        {
-          "name": "理力试卷2006（参考题）.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2006（参考题）.pdf",
-          "size": 2410556,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006%EF%BC%88%E5%8F%82%E8%80%83%E9%A2%98%EF%BC%89.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006%EF%BC%88%E5%8F%82%E8%80%83%E9%A2%98%EF%BC%89.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006%EF%BC%88%E5%8F%82%E8%80%83%E9%A2%98%EF%BC%89.pdf"
-        },
-        {
-          "name": "理力试卷2007.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2007.pdf",
-          "size": 2506475,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72007.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72007.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72007.pdf"
-        },
-        {
-          "name": "理力试卷2008.pdf",
-          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2008.pdf",
-          "size": 3210062,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72008.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72008.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72008.pdf"
-        }
-      ]
-    },
-    {
-      "name": "离散数学",
-      "path": "其他学校/大一下/离散数学",
-      "files": []
-    },
-    {
-      "name": "扬州大学",
-      "path": "其他学校/大一下/离散数学/扬州大学",
-      "files": [
-        {
-          "name": "扬州大学《离散数学》2020-2021期末试卷.pdf",
-          "path": "其他学校/大一下/离散数学/扬州大学/扬州大学《离散数学》2020-2021期末试卷.pdf",
-          "size": 1869936,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2020-2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2020-2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2020-2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        },
-        {
-          "name": "扬州大学《离散数学》2021-2022期末试卷.pdf",
-          "path": "其他学校/大一下/离散数学/扬州大学/扬州大学《离散数学》2021-2022期末试卷.pdf",
-          "size": 1900981,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2021-2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2021-2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2021-2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "齐鲁工业大学",
-      "path": "其他学校/大一下/离散数学/齐鲁工业大学",
-      "files": [
-        {
-          "name": "21-22-2离散数学A卷.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学A卷.pdf",
-          "size": 4019128,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf"
-        },
-        {
-          "name": "21-22-2离散数学A卷参考答案.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学A卷参考答案.pdf",
-          "size": 4070822,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        },
-        {
-          "name": "21-22-2离散数学B卷.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学B卷.pdf",
-          "size": 3469941,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf"
-        },
-        {
-          "name": "21-22-2离散数学B卷参考答案.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学B卷参考答案.pdf",
-          "size": 3555707,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        },
-        {
-          "name": "22-23-2离散数学A卷.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学A卷.pdf",
-          "size": 2946910,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf"
-        },
-        {
-          "name": "22-23-2离散数学A卷答案.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学A卷答案.pdf",
-          "size": 2462365,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
-        },
-        {
-          "name": "22-23-2离散数学B卷.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学B卷.pdf",
-          "size": 2397325,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf"
-        },
-        {
-          "name": "22-23-2离散数学B卷答案.pdf",
-          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学B卷答案.pdf",
-          "size": 2398752,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "计算机系统",
-      "path": "其他学校/大一下/计算机系统",
-      "files": []
-    },
-    {
-      "name": "齐鲁工业大学",
-      "path": "其他学校/大一下/计算机系统/齐鲁工业大学",
-      "files": []
-    },
-    {
-      "name": "练习",
-      "path": "其他学校/大一下/计算机系统/齐鲁工业大学/练习",
-      "files": [
-        {
-          "name": "计算机系统基础复习题2025.pdf",
-          "path": "其他学校/大一下/计算机系统/齐鲁工业大学/练习/计算机系统基础复习题2025.pdf",
-          "size": 31049534,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%BB%83%E4%B9%A0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E9%A2%982025.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%BB%83%E4%B9%A0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E9%A2%982025.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%BB%83%E4%B9%A0__%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E9%A2%982025.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等数学 I",
-      "path": "其他学校/大一下/高等数学 I",
-      "files": [
-        {
-          "name": "广州大学《高等数学I(1)》2017-2018期末试卷B.pdf",
-          "path": "其他学校/大一下/高等数学 I/广州大学《高等数学I(1)》2017-2018期末试卷B.pdf",
-          "size": 3276257,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%281%29%E3%80%8B2017-2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%281%29%E3%80%8B2017-2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%281%29%E3%80%8B2017-2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf"
-        }
-      ]
-    },
-    {
-      "name": "存疑资料",
-      "path": "存疑资料",
-      "files": []
-    },
-    {
-      "name": "离散数学",
-      "path": "存疑资料/离散数学",
-      "files": [
-        {
-          "name": "江南大学《离散数学二》2020-2021学年期末试卷A卷.pdf",
-          "path": "存疑资料/离散数学/江南大学《离散数学二》2020-2021学年期末试卷A卷.pdf",
-          "size": 2816307,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等数学",
-      "path": "存疑资料/高等数学",
-      "files": [
-        {
-          "name": "江南大学《高等数学 I & II》2017-2018学年期中试卷.pdf",
-          "path": "存疑资料/高等数学/江南大学《高等数学 I & II》2017-2018学年期中试卷.pdf",
-          "size": 2751413,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I%20%26%20II%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I%20%26%20II%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%26II%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf"
-        },
-        {
-          "name": "江南大学《高等数学下》2019-2020学年期末试卷.pdf",
-          "path": "存疑资料/高等数学/江南大学《高等数学下》2019-2020学年期末试卷.pdf",
-          "size": 3790434,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
-          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
       "name": "科目",
       "path": "科目",
-      "files": []
-    },
-    {
-      "name": "C",
-      "path": "科目/C",
       "files": [
         {
           "name": "2016年C语言试题.pdf",
@@ -355,28 +43,6 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/C/2018%E7%BA%A7C%E8%AF%AD%E8%A8%80%E7%AD%94%E6%A1%88%20%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/C/2018%E7%BA%A7C%E8%AF%AD%E8%A8%80%E7%AD%94%E6%A1%88%20%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/C__2018%E7%BA%A7C%E8%AF%AD%E8%A8%80%E7%AD%94%E6%A1%88%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "C++",
-      "path": "科目/C++",
-      "files": [
-        {
-          "name": "2024级C++实验期末试卷.txt",
-          "path": "科目/C++/2024级C++实验期末试卷.txt",
-          "size": 5085,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/C%2B%2B/2024%E7%BA%A7C%2B%2B%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.txt",
-          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/C%2B%2B/2024%E7%BA%A7C%2B%2B%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.txt",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/C%2B%2B__2024%E7%BA%A7C%2B%2B%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.txt"
-        },
-        {
-          "name": "2024级C++程序设计期末考试理论试题.txt",
-          "path": "科目/C++/2024级C++程序设计期末考试理论试题.txt",
-          "size": 6758,
-          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/C%2B%2B/2024%E7%BA%A7C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%90%86%E8%AE%BA%E8%AF%95%E9%A2%98.txt",
-          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/C%2B%2B/2024%E7%BA%A7C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%90%86%E8%AE%BA%E8%AF%95%E9%A2%98.txt",
-          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/C%2B%2B__2024%E7%BA%A7C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%90%86%E8%AE%BA%E8%AF%95%E9%A2%98.txt"
         },
         {
           "name": "C++练习题(1)(1)_240112_121403(1).pdf",
@@ -385,13 +51,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/C%2B%2B/C%2B%2B%E7%BB%83%E4%B9%A0%E9%A2%98%281%29%281%29_240112_121403%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/C%2B%2B/C%2B%2B%E7%BB%83%E4%B9%A0%E9%A2%98%281%29%281%29_240112_121403%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/C%2B%2B__C%2B%2B%E7%BB%83%E4%B9%A0%E9%A2%98%281%29%281%29_240112_121403%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Python",
-      "path": "科目/Python",
-      "files": [
+        },
         {
           "name": "(完整版)Python题库-8fb056725a0216fc700abb68a98271fe910.pdf",
           "path": "科目/Python/(完整版)Python题库-8fb056725a0216fc700abb68a98271fe910.pdf",
@@ -415,13 +75,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/Python/%E3%80%8APython%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E3%80%8B%E5%90%84%E7%AB%A0%E8%8A%82%E4%B9%A0%E9%A2%98.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/Python/%E3%80%8APython%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E3%80%8B%E5%90%84%E7%AB%A0%E8%8A%82%E4%B9%A0%E9%A2%98.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/Python__%E3%80%8APython%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E3%80%8B%E5%90%84%E7%AB%A0%E8%8A%82%E4%B9%A0%E9%A2%98.pdf"
-        }
-      ]
-    },
-    {
-      "name": "中国近代史纲要",
-      "path": "科目/中国近代史纲要",
-      "files": [
+        },
         {
           "name": "江南大学《中国近现代史纲要》2017-2018学年期末试卷.pdf",
           "path": "科目/中国近代史纲要/江南大学《中国近现代史纲要》2017-2018学年期末试卷.pdf",
@@ -453,13 +107,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "化工原理 I",
-      "path": "科目/化工原理 I",
-      "files": [
+        },
         {
           "name": "江南大学《化工原理Ⅰ（1）》2021-2022学年第一学期期末试卷.pdf",
           "path": "科目/化工原理 I/江南大学《化工原理Ⅰ（1）》2021-2022学年第一学期期末试卷.pdf",
@@ -523,13 +171,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%8C%96%E5%B7%A5%E5%8E%9F%E7%90%86%20I/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%8C%96%E5%B7%A5%E5%8E%9F%E7%90%86%E2%85%A0%EF%BC%882%EF%BC%89%E3%80%8B2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%8C%96%E5%B7%A5%E5%8E%9F%E7%90%86%20I/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%8C%96%E5%B7%A5%E5%8E%9F%E7%90%86%E2%85%A0%EF%BC%882%EF%BC%89%E3%80%8B2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%8C%96%E5%B7%A5%E5%8E%9F%E7%90%86I__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%8C%96%E5%B7%A5%E5%8E%9F%E7%90%86%E2%85%A0%EF%BC%882%EF%BC%89%E3%80%8B2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "复变函数与积分变换",
-      "path": "科目/复变函数与积分变换",
-      "files": [
+        },
         {
           "name": "2008复函与积分变换A1.pdf",
           "path": "科目/复变函数与积分变换/2008复函与积分变换A1.pdf",
@@ -625,13 +267,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A22015-2016_1_A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A22015-2016_1_A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2__%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A22015-2016_1_A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "大学物理 I",
-      "path": "科目/大学物理 I",
-      "files": [
+        },
         {
           "name": "《大学物理（1）》期末考试卷 （A）  2012.6.6 答卷.pdf",
           "path": "科目/大学物理 I/《大学物理（1）》期末考试卷 （A）  2012.6.6 答卷.pdf",
@@ -681,6 +317,14 @@
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%881%EF%BC%89%E3%80%8B2018-2019%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf"
         },
         {
+          "name": "测试用文件.pdf",
+          "path": "科目/大学物理 I/测试用文件.pdf",
+          "size": 4080892,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E4%BB%B6.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E4%BB%B6.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E4%BB%B6.pdf"
+        },
+        {
           "name": "物理1类2024A (1).pdf",
           "path": "科目/大学物理 I/物理1类2024A (1).pdf",
           "size": 5267225,
@@ -695,13 +339,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%89%A9%E7%90%861%E7%B1%BB2024B%20%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%89%A9%E7%90%861%E7%B1%BB2024B%20%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%89%A9%E7%90%861%E7%B1%BB2024B%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "往年大学物理I（2）试卷",
-      "path": "科目/大学物理 I/往年大学物理I（2）试卷",
-      "files": [
+        },
         {
           "name": "TIM图片20171212101141.jpg",
           "path": "科目/大学物理 I/往年大学物理I（2）试卷/TIM图片20171212101141.jpg",
@@ -733,13 +371,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E5%BE%80%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I%EF%BC%882%EF%BC%89%E8%AF%95%E5%8D%B7/TIM%E5%9B%BE%E7%89%8720171212101205.jpg",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E5%BE%80%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I%EF%BC%882%EF%BC%89%E8%AF%95%E5%8D%B7/TIM%E5%9B%BE%E7%89%8720171212101205.jpg",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E5%BE%80%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I%EF%BC%882%EF%BC%89%E8%AF%95%E5%8D%B7__TIM%E5%9B%BE%E7%89%8720171212101205.jpg"
-        }
-      ]
-    },
-    {
-      "name": "练习",
-      "path": "科目/大学物理 I/练习",
-      "files": [
+        },
         {
           "name": "80学时教学要求(new).pdf",
           "path": "科目/大学物理 I/练习/80学时教学要求(new).pdf",
@@ -763,13 +395,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E6%9C%9F%E4%B8%ADA%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E6%9C%9F%E4%B8%ADA%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E6%9C%9F%E4%B8%ADA%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "猴博士复习笔记",
-      "path": "科目/大学物理 I/练习/猴博士复习笔记",
-      "files": [
+        },
         {
           "name": "大学物理—力学 - 副本.pdf",
           "path": "科目/大学物理 I/练习/猴博士复习笔记/大学物理—力学 - 副本.pdf",
@@ -785,13 +411,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E7%8C%B4%E5%8D%9A%E5%A3%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%80%94%E7%94%B5%E7%A3%81%E5%AD%A6%20-%20%E5%89%AF%E6%9C%AC.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E7%8C%B4%E5%8D%9A%E5%A3%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%80%94%E7%94%B5%E7%A3%81%E5%AD%A6%20-%20%E5%89%AF%E6%9C%AC.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E7%8C%B4%E5%8D%9A%E5%A3%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0__%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%80%94%E7%94%B5%E7%A3%81%E5%AD%A6-%E5%89%AF%E6%9C%AC.pdf"
-        }
-      ]
-    },
-    {
-      "name": "大学物理 II",
-      "path": "科目/大学物理 II",
-      "files": [
+        },
         {
           "name": "江南大学《大学物理Ⅱ》2016-2017学年期末试卷B卷.pdf",
           "path": "科目/大学物理 II/江南大学《大学物理Ⅱ》2016-2017学年期末试卷B卷.pdf",
@@ -799,13 +419,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A1%E3%80%8B2016-2017%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A1%E3%80%8B2016-2017%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A1%E3%80%8B2016-2017%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2013-2A",
-      "path": "科目/大学物理 II/2013-2A",
-      "files": [
+        },
         {
           "name": "A卷答案.pdf",
           "path": "科目/大学物理 II/2013-2A/A卷答案.pdf",
@@ -821,13 +435,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2013-2A/%E8%AF%95%E5%8D%B7A.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2013-2A/%E8%AF%95%E5%8D%B7A.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2013-2A__%E8%AF%95%E5%8D%B7A.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2013-2B",
-      "path": "科目/大学物理 II/2013-2B",
-      "files": [
+        },
         {
           "name": "B卷答案.pdf",
           "path": "科目/大学物理 II/2013-2B/B卷答案.pdf",
@@ -843,13 +451,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2013-2B/%E8%80%83%E8%AF%95%E5%8D%B7B.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2013-2B/%E8%80%83%E8%AF%95%E5%8D%B7B.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2013-2B__%E8%80%83%E8%AF%95%E5%8D%B7B.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2014-2A",
-      "path": "科目/大学物理 II/2014-2A",
-      "files": [
+        },
         {
           "name": "2014,6,80课时大学物理(A)卷.pdf",
           "path": "科目/大学物理 II/2014-2A/2014,6,80课时大学物理(A)卷.pdf",
@@ -865,13 +467,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2014-2A/2014%2C6%2C80%E8%AF%BE%E6%97%B6%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%28A%29%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2014-2A/2014%2C6%2C80%E8%AF%BE%E6%97%B6%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%28A%29%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2014-2A__2014%2C6%2C80%E8%AF%BE%E6%97%B6%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%28A%29%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2014-2B",
-      "path": "科目/大学物理 II/2014-2B",
-      "files": [
+        },
         {
           "name": "《大学物理Ⅱ 》期末考试卷 （B）  2014.6.pdf",
           "path": "科目/大学物理 II/2014-2B/《大学物理Ⅱ 》期末考试卷 （B）  2014.6.pdf",
@@ -879,13 +475,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2014-2B/%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A1%20%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7%20%EF%BC%88B%EF%BC%89%20%202014.6.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2014-2B/%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A1%20%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7%20%EF%BC%88B%EF%BC%89%20%202014.6.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2014-2B__%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%892014.6.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2023-2A",
-      "path": "科目/大学物理 II/2023-2A",
-      "files": [
+        },
         {
           "name": "物理2类2023A含部分做题痕迹.pdf",
           "path": "科目/大学物理 II/2023-2A/物理2类2023A含部分做题痕迹.pdf",
@@ -901,13 +491,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2023-2A/%E7%89%A9%E7%90%862%E7%B1%BB2023A%E7%A9%BA%E7%99%BD%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2023-2A/%E7%89%A9%E7%90%862%E7%B1%BB2023A%E7%A9%BA%E7%99%BD%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2023-2A__%E7%89%A9%E7%90%862%E7%B1%BB2023A%E7%A9%BA%E7%99%BD%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2024-2A",
-      "path": "科目/大学物理 II/2024-2A",
-      "files": [
+        },
         {
           "name": "物理2类2024A.pdf",
           "path": "科目/大学物理 II/2024-2A/物理2类2024A.pdf",
@@ -915,13 +499,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2024-2A/%E7%89%A9%E7%90%862%E7%B1%BB2024A.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2024-2A/%E7%89%A9%E7%90%862%E7%B1%BB2024A.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2024-2A__%E7%89%A9%E7%90%862%E7%B1%BB2024A.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2024-2B",
-      "path": "科目/大学物理 II/2024-2B",
-      "files": [
+        },
         {
           "name": "物理2类2024B.pdf",
           "path": "科目/大学物理 II/2024-2B/物理2类2024B.pdf",
@@ -929,13 +507,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2024-2B/%E7%89%A9%E7%90%862%E7%B1%BB2024B.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/2024-2B/%E7%89%A9%E7%90%862%E7%B1%BB2024B.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__2024-2B__%E7%89%A9%E7%90%862%E7%B1%BB2024B.pdf"
-        }
-      ]
-    },
-    {
-      "name": "其他",
-      "path": "科目/大学物理 II/其他",
-      "files": [
+        },
         {
           "name": "大学物理考试题库1马.pdf",
           "path": "科目/大学物理 II/其他/大学物理考试题库1马.pdf",
@@ -951,13 +523,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/%E5%85%B6%E4%BB%96/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20II/%E5%85%B6%E4%BB%96/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II__%E5%85%B6%E4%BB%96__%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf"
-        }
-      ]
-    },
-    {
-      "name": "大学物理 III",
-      "path": "科目/大学物理 III",
-      "files": [
+        },
         {
           "name": "江南大学《大学物理Ⅲ1》2017-2018学年期末试卷A卷.pdf",
           "path": "科目/大学物理 III/江南大学《大学物理Ⅲ1》2017-2018学年期末试卷A卷.pdf",
@@ -973,13 +539,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20III/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A21%E3%80%8B2018-2019%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20III/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A21%E3%80%8B2018-2019%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86III__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E2%85%A21%E3%80%8B2018-2019%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "大学英语",
-      "path": "科目/大学英语",
-      "files": [
+        },
         {
           "name": "江南大学《大学英语》2016-2017学年期末试卷A.pdf",
           "path": "科目/大学英语/江南大学《大学英语》2016-2017学年期末试卷A.pdf",
@@ -1011,13 +571,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习题",
-      "path": "科目/大学英语/练习题",
-      "files": [
+        },
         {
           "name": "2024-2025-2_水平考试模拟卷.zip",
           "path": "科目/大学英语/练习题/2024-2025-2_水平考试模拟卷.zip",
@@ -1025,13 +579,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E7%BB%83%E4%B9%A0%E9%A2%98/2024-2025-2_%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E5%8D%B7.zip",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E7%BB%83%E4%B9%A0%E9%A2%98/2024-2025-2_%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E5%8D%B7.zip",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD__%E7%BB%83%E4%B9%A0%E9%A2%98__2024-2025-2_%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E5%8D%B7.zip"
-        }
-      ]
-    },
-    {
-      "name": "工程制图 I",
-      "path": "科目/工程制图 I",
-      "files": [
+        },
         {
           "name": "2018-2019-2工程制图ⅠA1.pdf",
           "path": "科目/工程制图 I/2018-2019-2工程制图ⅠA1.pdf",
@@ -1103,13 +651,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%20I/2021-2022-1%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BEi%E8%AF%95%E5%8D%B7A%E5%8D%B7-A3%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%20I/2021-2022-1%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BEi%E8%AF%95%E5%8D%B7A%E5%8D%B7-A3%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BEI__2021-2022-1%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BEi%E8%AF%95%E5%8D%B7A%E5%8D%B7-A3%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习",
-      "path": "科目/工程制图 I/练习",
-      "files": [
+        },
         {
           "name": "19-20-1光科班第一次《工程制图Ⅰ》月考-Model.pdf",
           "path": "科目/工程制图 I/练习/19-20-1光科班第一次《工程制图Ⅰ》月考-Model.pdf",
@@ -1309,13 +851,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%20I/%E7%BB%83%E4%B9%A0/%E5%B7%A5%E5%9B%BE%E6%A8%A1%E6%8B%9F%E8%AF%95%E5%8D%B703.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%20I/%E7%BB%83%E4%B9%A0/%E5%B7%A5%E5%9B%BE%E6%A8%A1%E6%8B%9F%E8%AF%95%E5%8D%B703.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BEI__%E7%BB%83%E4%B9%A0__%E5%B7%A5%E5%9B%BE%E6%A8%A1%E6%8B%9F%E8%AF%95%E5%8D%B703.pdf"
-        }
-      ]
-    },
-    {
-      "name": "微分几何",
-      "path": "科目/微分几何",
-      "files": [
+        },
         {
           "name": "IMG_20250603_152457.jpg",
           "path": "科目/微分几何/IMG_20250603_152457.jpg",
@@ -1347,13 +883,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/IMG_20250606_080453.jpg",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/IMG_20250606_080453.jpg",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95__IMG_20250606_080453.jpg"
-        }
-      ]
-    },
-    {
-      "name": "思想道德与法治",
-      "path": "科目/思想道德与法治",
-      "files": [
+        },
         {
           "name": "江南大学《思想道德与法治》2018-2019学年期末试卷.pdf",
           "path": "科目/思想道德与法治/江南大学《思想道德与法治》2018-2019学年期末试卷.pdf",
@@ -1385,13 +915,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "数值分析",
-      "path": "科目/数值分析",
-      "files": [
+        },
         {
           "name": "未知年份-信计期末A.pdf",
           "path": "科目/数值分析/未知年份-信计期末A.pdf",
@@ -1407,13 +931,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E4%BF%A1%E8%AE%A1%E6%9C%9F%E6%9C%ABB.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E4%BF%A1%E8%AE%A1%E6%9C%9F%E6%9C%ABB.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90__%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E4%BF%A1%E8%AE%A1%E6%9C%9F%E6%9C%ABB.pdf"
-        }
-      ]
-    },
-    {
-      "name": "数字电子技术",
-      "path": "科目/数字电子技术",
-      "files": [
+        },
         {
           "name": "13数电（A）.pdf",
           "path": "科目/数字电子技术/13数电（A）.pdf",
@@ -1461,13 +979,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B2018-2019%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B2018-2019%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B2018-2019%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "资料",
-      "path": "科目/数字电子技术/资料",
-      "files": [
+        },
         {
           "name": "江南大学《数字电子技术》笔记-各章重点与例题.pdf",
           "path": "科目/数字电子技术/资料/江南大学《数字电子技术》笔记-各章重点与例题.pdf",
@@ -1475,13 +987,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/%E8%B5%84%E6%96%99/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B%E7%AC%94%E8%AE%B0-%E5%90%84%E7%AB%A0%E9%87%8D%E7%82%B9%E4%B8%8E%E4%BE%8B%E9%A2%98.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/%E8%B5%84%E6%96%99/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B%E7%AC%94%E8%AE%B0-%E5%90%84%E7%AB%A0%E9%87%8D%E7%82%B9%E4%B8%8E%E4%BE%8B%E9%A2%98.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF__%E8%B5%84%E6%96%99__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B%E7%AC%94%E8%AE%B0-%E5%90%84%E7%AB%A0%E9%87%8D%E7%82%B9%E4%B8%8E%E4%BE%8B%E9%A2%98.pdf"
-        }
-      ]
-    },
-    {
-      "name": "数学分析 I",
-      "path": "科目/数学分析 I",
-      "files": [
+        },
         {
           "name": "2016级信计数学分析1期末考试题 A.pdf",
           "path": "科目/数学分析 I/2016级信计数学分析1期末考试题 A.pdf",
@@ -1505,13 +1011,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20I/2020%E5%B9%B4%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95B%E5%8D%B7%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20I/2020%E5%B9%B4%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95B%E5%8D%B7%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I__2020%E5%B9%B4%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95B%E5%8D%B7%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2022-1(2)",
-      "path": "科目/数学分析 I/2022-1(2)",
-      "files": [
+        },
         {
           "name": "数学分析I(2)期末考试卷.pdf",
           "path": "科目/数学分析 I/2022-1(2)/数学分析I(2)期末考试卷.pdf",
@@ -1527,13 +1027,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20I/2022-1%282%29/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%EF%BC%882%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20I/2022-1%282%29/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%EF%BC%882%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I__2022-1%282%29__%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%EF%BC%882%EF%BC%89%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习题",
-      "path": "科目/数学分析 I/练习题",
-      "files": [
+        },
         {
           "name": "2023级数学分析2期中解答.pdf",
           "path": "科目/数学分析 I/练习题/2023级数学分析2期中解答.pdf",
@@ -1557,13 +1051,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20I/%E7%BB%83%E4%B9%A0%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98-%E6%95%B0%E5%88%862A.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20I/%E7%BB%83%E4%B9%A0%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98-%E6%95%B0%E5%88%862A.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I__%E7%BB%83%E4%B9%A0%E9%A2%98__%E6%A8%A1%E6%8B%9F%E9%A2%98-%E6%95%B0%E5%88%862A.pdf"
-        }
-      ]
-    },
-    {
-      "name": "数学分析 II",
-      "path": "科目/数学分析 II",
-      "files": [
+        },
         {
           "name": "未知年份-数分2A (1).pdf",
           "path": "科目/数学分析 II/未知年份-数分2A (1).pdf",
@@ -1571,13 +1059,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20II/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E6%95%B0%E5%88%862A%20%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20II/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E6%95%B0%E5%88%862A%20%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90II__%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E6%95%B0%E5%88%862A%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习",
-      "path": "科目/数学分析 II/练习",
-      "files": [
+        },
         {
           "name": "数学分析（2）期中试卷 (1).pdf",
           "path": "科目/数学分析 II/练习/数学分析（2）期中试卷 (1).pdf",
@@ -1585,13 +1067,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20II/%E7%BB%83%E4%B9%A0/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%882%EF%BC%89%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%20%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20II/%E7%BB%83%E4%B9%A0/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%882%EF%BC%89%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%20%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90II__%E7%BB%83%E4%B9%A0__%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%882%EF%BC%89%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "数据库",
-      "path": "科目/数据库",
-      "files": [
+        },
         {
           "name": "2018-2019学年期末考试卷.pdf",
           "path": "科目/数据库/2018-2019学年期末考试卷.pdf",
@@ -1615,13 +1091,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E6%8D%AE%E5%BA%93/2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E6%8D%AE%E5%BA%93/2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E6%8D%AE%E5%BA%93__2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "数据结构",
-      "path": "科目/数据结构",
-      "files": [
+        },
         {
           "name": "15年数据结构期末考试卷.pdf",
           "path": "科目/数据结构/15年数据结构期末考试卷.pdf",
@@ -1677,13 +1147,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/PDF%EF%BC%9A2018%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AF%95%E5%8D%B7-A.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/PDF%EF%BC%9A2018%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AF%95%E5%8D%B7-A.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84__PDF%EF%BC%9A2018%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AF%95%E5%8D%B7-A.pdf"
-        }
-      ]
-    },
-    {
-      "name": "文学概论",
-      "path": "科目/文学概论",
-      "files": [
+        },
         {
           "name": "江南大学《文学概论》2020-2021学年期末试卷.pdf",
           "path": "科目/文学概论/江南大学《文学概论》2020-2021学年期末试卷.pdf",
@@ -1715,13 +1179,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%96%87%E5%AD%A6%E6%A6%82%E8%AE%BA/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%96%87%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B2022%E2%80%942023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%96%87%E5%AD%A6%E6%A6%82%E8%AE%BA/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%96%87%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B2022%E2%80%942023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%96%87%E5%AD%A6%E6%A6%82%E8%AE%BA__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%96%87%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B2022%E2%80%942023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "有机化学",
-      "path": "科目/有机化学",
-      "files": [
+        },
         {
           "name": "江南大学《有机化学Ⅰ》2022-2023学年第一学期期末试卷.pdf",
           "path": "科目/有机化学/江南大学《有机化学Ⅰ》2022-2023学年第一学期期末试卷.pdf",
@@ -1737,13 +1195,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%E2%85%A0%E3%80%8B2023-2024%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%E2%85%A0%E3%80%8B2023-2024%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%E2%85%A0%E3%80%8B2023-2024%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习题",
-      "path": "科目/有机化学/练习题",
-      "files": [
+        },
         {
           "name": "有机化学总练习题(升级版，60+）.pdf",
           "path": "科目/有机化学/练习题/有机化学总练习题(升级版，60+）.pdf",
@@ -1751,13 +1203,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/%E7%BB%83%E4%B9%A0%E9%A2%98/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%E6%80%BB%E7%BB%83%E4%B9%A0%E9%A2%98%28%E5%8D%87%E7%BA%A7%E7%89%88%EF%BC%8C60%2B%EF%BC%89.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/%E7%BB%83%E4%B9%A0%E9%A2%98/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%E6%80%BB%E7%BB%83%E4%B9%A0%E9%A2%98%28%E5%8D%87%E7%BA%A7%E7%89%88%EF%BC%8C60%2B%EF%BC%89.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6__%E7%BB%83%E4%B9%A0%E9%A2%98__%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%E6%80%BB%E7%BB%83%E4%B9%A0%E9%A2%98%28%E5%8D%87%E7%BA%A7%E7%89%88%EF%BC%8C60%2B%EF%BC%89.pdf"
-        }
-      ]
-    },
-    {
-      "name": "有机化学 II",
-      "path": "科目/有机化学 II",
-      "files": [
+        },
         {
           "name": "23有机Ⅱ（A）（无答案） (1).pdf",
           "path": "科目/有机化学 II/23有机Ⅱ（A）（无答案） (1).pdf",
@@ -1765,13 +1211,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%20II/23%E6%9C%89%E6%9C%BA%E2%85%A1%EF%BC%88A%EF%BC%89%EF%BC%88%E6%97%A0%E7%AD%94%E6%A1%88%EF%BC%89%20%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6%20II/23%E6%9C%89%E6%9C%BA%E2%85%A1%EF%BC%88A%EF%BC%89%EF%BC%88%E6%97%A0%E7%AD%94%E6%A1%88%EF%BC%89%20%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6II__23%E6%9C%89%E6%9C%BA%E2%85%A1%EF%BC%88A%EF%BC%89%EF%BC%88%E6%97%A0%E7%AD%94%E6%A1%88%EF%BC%89%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "概率论与数理统计",
-      "path": "科目/概率论与数理统计",
-      "files": [
+        },
         {
           "name": "2017《概率论与数理统计II》(A) 答案.pdf",
           "path": "科目/概率论与数理统计/2017《概率论与数理统计II》(A) 答案.pdf",
@@ -2067,13 +1507,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "模拟电子技术",
-      "path": "科目/模拟电子技术",
-      "files": [
+        },
         {
           "name": "18级模电（B）.pdf",
           "path": "科目/模拟电子技术/18级模电（B）.pdf",
@@ -2113,13 +1547,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/2016%E7%BA%A7%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/2016%E7%BA%A7%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF__2016%E7%BA%A7%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A.pdf"
-        }
-      ]
-    },
-    {
-      "name": "毛泽东思想和中国特色社会主义理论体系概论",
-      "path": "科目/毛泽东思想和中国特色社会主义理论体系概论",
-      "files": [
+        },
         {
           "name": "江南大学《毛泽东思想和中国特色社会主义理论体系概论》2016-2017学年期末试卷.pdf",
           "path": "科目/毛泽东思想和中国特色社会主义理论体系概论/江南大学《毛泽东思想和中国特色社会主义理论体系概论》2016-2017学年期末试卷.pdf",
@@ -2159,13 +1587,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "物理化学",
-      "path": "科目/物理化学",
-      "files": [
+        },
         {
           "name": "13级物化上期末.pdf",
           "path": "科目/物理化学/13级物化上期末.pdf",
@@ -2317,13 +1739,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/%E9%A3%9F%E5%93%81%E7%89%A9%E5%8C%96%E5%8D%B7_202510162218_03513.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/%E9%A3%9F%E5%93%81%E7%89%A9%E5%8C%96%E5%8D%B7_202510162218_03513.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6__%E9%A3%9F%E5%93%81%E7%89%A9%E5%8C%96%E5%8D%B7_202510162218_03513.pdf"
-        }
-      ]
-    },
-    {
-      "name": "现代汉语",
-      "path": "科目/现代汉语",
-      "files": [
+        },
         {
           "name": "江南大学《现代汉语》2022-2023学年期末试卷A（有答案）.pdf",
           "path": "科目/现代汉语/江南大学《现代汉语》2022-2023学年期末试卷A（有答案）.pdf",
@@ -2331,13 +1747,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf"
-        }
-      ]
-    },
-    {
-      "name": "理论力学",
-      "path": "科目/理论力学",
-      "files": [
+        },
         {
           "name": "2014级机械理论力学考试试卷A.pdf",
           "path": "科目/理论力学/2014级机械理论力学考试试卷A.pdf",
@@ -2385,13 +1795,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/2020%E7%BA%A7%E6%9C%BA%E6%A2%B0%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%80%83%E8%AF%95%E5%8D%B7B.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/2020%E7%BA%A7%E6%9C%BA%E6%A2%B0%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%80%83%E8%AF%95%E5%8D%B7B.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__2020%E7%BA%A7%E6%9C%BA%E6%A2%B0%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%80%83%E8%AF%95%E5%8D%B7B.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习",
-      "path": "科目/理论力学/练习",
-      "files": [
+        },
         {
           "name": "理力习题2011.pdf",
           "path": "科目/理论力学/练习/理力习题2011.pdf",
@@ -2415,13 +1819,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%BB%83%E4%B9%A0/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E9%9D%99%E5%8A%9B%E5%AD%A6%E7%BB%83%E4%B9%A0%20%28%E8%A7%A3%E6%9E%90%EF%BC%89_%E7%BA%AF%E5%9B%BE%E7%89%88%20%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%BB%83%E4%B9%A0/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E9%9D%99%E5%8A%9B%E5%AD%A6%E7%BB%83%E4%B9%A0%20%28%E8%A7%A3%E6%9E%90%EF%BC%89_%E7%BA%AF%E5%9B%BE%E7%89%88%20%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E7%BB%83%E4%B9%A0__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E9%9D%99%E5%8A%9B%E5%AD%A6%E7%BB%83%E4%B9%A0%28%E8%A7%A3%E6%9E%90%EF%BC%89_%E7%BA%AF%E5%9B%BE%E7%89%88%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "生物化学",
-      "path": "科目/生物化学",
-      "files": [
+        },
         {
           "name": "10－生物氧化.pdf",
           "path": "科目/生物化学/10－生物氧化.pdf",
@@ -2621,13 +2019,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E9%83%A8%E5%88%86%E7%AE%80%E7%AD%94%E9%A2%98.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E9%83%A8%E5%88%86%E7%AE%80%E7%AD%94%E9%A2%98.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__%E9%83%A8%E5%88%86%E7%AE%80%E7%AD%94%E9%A2%98.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2014生物化学期中试卷",
-      "path": "科目/生物化学/2014生物化学期中试卷",
-      "files": [
+        },
         {
           "name": "1-名词解释.jpg",
           "path": "科目/生物化学/2014生物化学期中试卷/1-名词解释.jpg",
@@ -2699,13 +2091,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/2014%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7/5%E8%AE%A1%E7%AE%97-4.jpg",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/2014%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7/5%E8%AE%A1%E7%AE%97-4.jpg",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__2014%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7__5%E8%AE%A1%E7%AE%97-4.jpg"
-        }
-      ]
-    },
-    {
-      "name": "e江南题库",
-      "path": "科目/生物化学/e江南题库",
-      "files": [
+        },
         {
           "name": "核酸的分解和核苷酸的代谢.pdf",
           "path": "科目/生物化学/e江南题库/核酸的分解和核苷酸的代谢.pdf",
@@ -2857,13 +2243,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/e%E6%B1%9F%E5%8D%97%E9%A2%98%E5%BA%93/%E8%84%82%E4%BB%A3%E8%B0%A2.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/e%E6%B1%9F%E5%8D%97%E9%A2%98%E5%BA%93/%E8%84%82%E4%BB%A3%E8%B0%A2.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__e%E6%B1%9F%E5%8D%97%E9%A2%98%E5%BA%93__%E8%84%82%E4%BB%A3%E8%B0%A2.pdf"
-        }
-      ]
-    },
-    {
-      "name": "ppt",
-      "path": "科目/生物化学/ppt",
-      "files": [
+        },
         {
           "name": "第七章-生物能学与代谢概述-老师版.pdf",
           "path": "科目/生物化学/ppt/第七章-生物能学与代谢概述-老师版.pdf",
@@ -2991,13 +2371,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/ppt/%E7%BB%AA%E8%AE%BA%20%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%9B%8B%E7%99%BD%E8%B4%A8%E5%8C%96%E5%AD%A6.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/ppt/%E7%BB%AA%E8%AE%BA%20%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%9B%8B%E7%99%BD%E8%B4%A8%E5%8C%96%E5%AD%A6.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__ppt__%E7%BB%AA%E8%AE%BA%E7%AC%AC%E4%B8%89%E7%AB%A0%E8%9B%8B%E7%99%BD%E8%B4%A8%E5%8C%96%E5%AD%A6.pdf"
-        }
-      ]
-    },
-    {
-      "name": "习题集",
-      "path": "科目/生物化学/习题集",
-      "files": [
+        },
         {
           "name": "生化习题集-N——核酸化学.pdf",
           "path": "科目/生物化学/习题集/生化习题集-N——核酸化学.pdf",
@@ -3037,13 +2411,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E4%B9%A0%E9%A2%98%E9%9B%86/%E7%94%9F%E5%8C%96%E4%B9%A0%E9%A2%98%E9%9B%86%E2%80%94%E2%80%94%E7%B3%96%E4%BB%A3%E8%B0%A2.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E4%B9%A0%E9%A2%98%E9%9B%86/%E7%94%9F%E5%8C%96%E4%B9%A0%E9%A2%98%E9%9B%86%E2%80%94%E2%80%94%E7%B3%96%E4%BB%A3%E8%B0%A2.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__%E4%B9%A0%E9%A2%98%E9%9B%86__%E7%94%9F%E5%8C%96%E4%B9%A0%E9%A2%98%E9%9B%86%E2%80%94%E2%80%94%E7%B3%96%E4%BB%A3%E8%B0%A2.pdf"
-        }
-      ]
-    },
-    {
-      "name": "名词解释／简答题（自整）",
-      "path": "科目/生物化学/名词解释／简答题（自整）",
-      "files": [
+        },
         {
           "name": "DNARNA蛋白质的生物合成.pdf",
           "path": "科目/生物化学/名词解释／简答题（自整）/DNARNA蛋白质的生物合成.pdf",
@@ -3147,13 +2515,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%EF%BC%8F%E7%AE%80%E7%AD%94%E9%A2%98%EF%BC%88%E8%87%AA%E6%95%B4%EF%BC%89/%E8%A1%A5%E5%85%85%E7%B3%96%E7%9A%84%E5%90%88%E6%88%90%E4%BB%A3%E8%B0%A2%E5%8F%8A%E7%94%9F%E7%89%A9%E6%B0%A7%E5%8C%96.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%EF%BC%8F%E7%AE%80%E7%AD%94%E9%A2%98%EF%BC%88%E8%87%AA%E6%95%B4%EF%BC%89/%E8%A1%A5%E5%85%85%E7%B3%96%E7%9A%84%E5%90%88%E6%88%90%E4%BB%A3%E8%B0%A2%E5%8F%8A%E7%94%9F%E7%89%A9%E6%B0%A7%E5%8C%96.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%EF%BC%8F%E7%AE%80%E7%AD%94%E9%A2%98%EF%BC%88%E8%87%AA%E6%95%B4%EF%BC%89__%E8%A1%A5%E5%85%85%E7%B3%96%E7%9A%84%E5%90%88%E6%88%90%E4%BB%A3%E8%B0%A2%E5%8F%8A%E7%94%9F%E7%89%A9%E6%B0%A7%E5%8C%96.pdf"
-        }
-      ]
-    },
-    {
-      "name": "生物化学习题及答案",
-      "path": "科目/生物化学/生物化学习题及答案",
-      "files": [
+        },
         {
           "name": "1糖化学习题答案(1).pdf",
           "path": "科目/生物化学/生物化学习题及答案/1糖化学习题答案(1).pdf",
@@ -3209,13 +2571,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/4%E6%A0%B8%E9%85%B8%20%E8%BE%85%E9%85%B6%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/4%E6%A0%B8%E9%85%B8%20%E8%BE%85%E9%85%B6%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6__%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88__4%E6%A0%B8%E9%85%B8%E8%BE%85%E9%85%B6%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "电力系统分析",
-      "path": "科目/电力系统分析",
-      "files": [
+        },
         {
           "name": "江南大学《电力系统分析》2021-2022学年期末试卷.pdf",
           "path": "科目/电力系统分析/江南大学《电力系统分析》2021-2022学年期末试卷.pdf",
@@ -3223,13 +2579,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "电子商务",
-      "path": "科目/电子商务",
-      "files": [
+        },
         {
           "name": "江南大学《电子商务》2019-2020学年期末试卷.pdf",
           "path": "科目/电子商务/江南大学《电子商务》2019-2020学年期末试卷.pdf",
@@ -3237,13 +2587,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "电机与拖动基础",
-      "path": "科目/电机与拖动基础",
-      "files": [
+        },
         {
           "name": "2015-2016电机与拖动基础(Ⅰ) （1）.pdf",
           "path": "科目/电机与拖动基础/2015-2016电机与拖动基础(Ⅰ) （1）.pdf",
@@ -3267,13 +2611,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E6%9C%BA%E4%B8%8E%E6%8B%96%E5%8A%A8%E5%9F%BA%E7%A1%80/2020%E6%98%A5%E5%AD%A3%E5%8F%98%E5%8E%8B%E5%99%A8%E7%BB%83%E4%B9%A0.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E6%9C%BA%E4%B8%8E%E6%8B%96%E5%8A%A8%E5%9F%BA%E7%A1%80/2020%E6%98%A5%E5%AD%A3%E5%8F%98%E5%8E%8B%E5%99%A8%E7%BB%83%E4%B9%A0.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E6%9C%BA%E4%B8%8E%E6%8B%96%E5%8A%A8%E5%9F%BA%E7%A1%80__2020%E6%98%A5%E5%AD%A3%E5%8F%98%E5%8E%8B%E5%99%A8%E7%BB%83%E4%B9%A0.pdf"
-        }
-      ]
-    },
-    {
-      "name": "电路理论",
-      "path": "科目/电路理论",
-      "files": [
+        },
         {
           "name": "16电路理论试卷（B）试卷.pdf",
           "path": "科目/电路理论/16电路理论试卷（B）试卷.pdf",
@@ -3281,13 +2619,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/16%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/16%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__16%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "病理学",
-      "path": "科目/病理学",
-      "files": [
+        },
         {
           "name": "江南大学《病理学》2019-2020学年期末试卷.pdf",
           "path": "科目/病理学/江南大学《病理学》2019-2020学年期末试卷.pdf",
@@ -3295,13 +2627,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%97%85%E7%90%86%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%97%85%E7%90%86%E5%AD%A6%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%97%85%E7%90%86%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%97%85%E7%90%86%E5%AD%A6%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%97%85%E7%90%86%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%97%85%E7%90%86%E5%AD%A6%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "离散数学",
-      "path": "科目/离散数学",
-      "files": [
+        },
         {
           "name": "23-24-1-离散数学A卷——考试卷（带答案） (1).pdf",
           "path": "科目/离散数学/23-24-1-离散数学A卷——考试卷（带答案） (1).pdf",
@@ -3333,13 +2659,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2019-2020%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2019-2020%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2019-2020%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "资料",
-      "path": "科目/离散数学/资料",
-      "files": [
+        },
         {
           "name": "0离散数学课程介绍.pdf",
           "path": "科目/离散数学/资料/0离散数学课程介绍.pdf",
@@ -3603,13 +2923,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%90%E8%9C%82%E8%80%83%E7%AA%81%E5%87%BB%E8%AF%BE%E3%80%91%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%90%E8%9C%82%E8%80%83%E7%AA%81%E5%87%BB%E8%AF%BE%E3%80%91%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E8%B5%84%E6%96%99__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%90%E8%9C%82%E8%80%83%E7%AA%81%E5%87%BB%E8%AF%BE%E3%80%91%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "线性代数",
-      "path": "科目/线性代数",
-      "files": [
+        },
         {
           "name": "2015级线性代数I试卷(A) .pdf",
           "path": "科目/线性代数/2015级线性代数I试卷(A) .pdf",
@@ -3921,13 +3235,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "线性代数 II",
-      "path": "科目/线性代数 II",
-      "files": [
+        },
         {
           "name": "江南大学《线性代数Ⅱ》2016-2017学年期末试卷A.pdf",
           "path": "科目/线性代数 II/江南大学《线性代数Ⅱ》2016-2017学年期末试卷A.pdf",
@@ -3951,13 +3259,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/%E7%8C%B4%E5%8D%9A%E5%A3%AB%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01%E5%B0%8F%E6%97%B6%E5%AD%A6%E6%B8%A3%E6%95%91%E5%91%BD%E7%89%88%E7%AC%94%E8%AE%B0%E5%8F%8A%E4%B9%A0%E9%A2%98.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/%E7%8C%B4%E5%8D%9A%E5%A3%AB%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01%E5%B0%8F%E6%97%B6%E5%AD%A6%E6%B8%A3%E6%95%91%E5%91%BD%E7%89%88%E7%AC%94%E8%AE%B0%E5%8F%8A%E4%B9%A0%E9%A2%98.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__%E7%8C%B4%E5%8D%9A%E5%A3%AB%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01%E5%B0%8F%E6%97%B6%E5%AD%A6%E6%B8%A3%E6%95%91%E5%91%BD%E7%89%88%E7%AC%94%E8%AE%B0%E5%8F%8A%E4%B9%A0%E9%A2%98.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2016-2A",
-      "path": "科目/线性代数 II/2016-2A",
-      "files": [
+        },
         {
           "name": "2016线性代数II试卷A评分标准.pdf",
           "path": "科目/线性代数 II/2016-2A/2016线性代数II试卷A评分标准.pdf",
@@ -3965,13 +3267,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2016-2A/2016%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2016-2A/2016%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2016-2A__2016%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2016-2B",
-      "path": "科目/线性代数 II/2016-2B",
-      "files": [
+        },
         {
           "name": "2016线性代数II试卷B评分标准.pdf",
           "path": "科目/线性代数 II/2016-2B/2016线性代数II试卷B评分标准.pdf",
@@ -3979,13 +3275,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2016-2B/2016%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2016-2B/2016%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2016-2B__2016%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2017-2A",
-      "path": "科目/线性代数 II/2017-2A",
-      "files": [
+        },
         {
           "name": "2017级线性代数II试卷A 评分标准.pdf",
           "path": "科目/线性代数 II/2017-2A/2017级线性代数II试卷A 评分标准.pdf",
@@ -3993,13 +3283,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2017-2A/2017%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7A%20%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2017-2A/2017%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7A%20%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2017-2A__2017%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2017-2B",
-      "path": "科目/线性代数 II/2017-2B",
-      "files": [
+        },
         {
           "name": "2017级线性代数II试卷B评分标准.pdf",
           "path": "科目/线性代数 II/2017-2B/2017级线性代数II试卷B评分标准.pdf",
@@ -4007,13 +3291,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2017-2B/2017%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2017-2B/2017%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2017-2B__2017%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2018-2A",
-      "path": "科目/线性代数 II/2018-2A",
-      "files": [
+        },
         {
           "name": "2018级线代试卷A评分标准 .pdf",
           "path": "科目/线性代数 II/2018-2A/2018级线代试卷A评分标准 .pdf",
@@ -4021,13 +3299,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2018-2A/2018%E7%BA%A7%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%20.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2018-2A/2018%E7%BA%A7%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%20.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2018-2A__2018%E7%BA%A7%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2018-2B",
-      "path": "科目/线性代数 II/2018-2B",
-      "files": [
+        },
         {
           "name": "2018级线代试卷B评分标准 .pdf",
           "path": "科目/线性代数 II/2018-2B/2018级线代试卷B评分标准 .pdf",
@@ -4035,13 +3307,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2018-2B/2018%E7%BA%A7%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%20.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2018-2B/2018%E7%BA%A7%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%20.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2018-2B__2018%E7%BA%A7%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7B%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2019-2A",
-      "path": "科目/线性代数 II/2019-2A",
-      "files": [
+        },
         {
           "name": "2019线性代数2A参考答案.pdf",
           "path": "科目/线性代数 II/2019-2A/2019线性代数2A参考答案.pdf",
@@ -4057,13 +3323,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2019-2A/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02A%E7%A9%BA%E7%99%BD%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2019-2A/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02A%E7%A9%BA%E7%99%BD%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2019-2A__2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02A%E7%A9%BA%E7%99%BD%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2020-2A",
-      "path": "科目/线性代数 II/2020-2A",
-      "files": [
+        },
         {
           "name": "20级线性代数2参考答案(1).pdf",
           "path": "科目/线性代数 II/2020-2A/20级线性代数2参考答案(1).pdf",
@@ -4071,13 +3331,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2020-2A/20%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2020-2A/20%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2020-2A__20%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2021-2A",
-      "path": "科目/线性代数 II/2021-2A",
-      "files": [
+        },
         {
           "name": "2021线代2A一卷(9-8).pdf",
           "path": "科目/线性代数 II/2021-2A/2021线代2A一卷(9-8).pdf",
@@ -4101,13 +3355,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2021-2A/2021%E7%BA%BF%E4%BB%A32A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2021-2A/2021%E7%BA%BF%E4%BB%A32A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2021-2A__2021%E7%BA%BF%E4%BB%A32A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2021-2B",
-      "path": "科目/线性代数 II/2021-2B",
-      "files": [
+        },
         {
           "name": "2021线代2B--参考答案.pdf",
           "path": "科目/线性代数 II/2021-2B/2021线代2B--参考答案.pdf",
@@ -4115,13 +3363,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2021-2B/2021%E7%BA%BF%E4%BB%A32B--%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2021-2B/2021%E7%BA%BF%E4%BB%A32B--%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2021-2B__2021%E7%BA%BF%E4%BB%A32B--%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2022-2A",
-      "path": "科目/线性代数 II/2022-2A",
-      "files": [
+        },
         {
           "name": "2022级线性代数II（A） 评分标准.pdf",
           "path": "科目/线性代数 II/2022-2A/2022级线性代数II（A） 评分标准.pdf",
@@ -4129,13 +3371,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2022-2A/2022%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%EF%BC%88A%EF%BC%89%20%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2022-2A/2022%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%EF%BC%88A%EF%BC%89%20%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2022-2A__2022%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%EF%BC%88A%EF%BC%89%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2022-2B",
-      "path": "科目/线性代数 II/2022-2B",
-      "files": [
+        },
         {
           "name": "2022级线性代数II（B）评分标准.pdf",
           "path": "科目/线性代数 II/2022-2B/2022级线性代数II（B）评分标准.pdf",
@@ -4143,13 +3379,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2022-2B/2022%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%EF%BC%88B%EF%BC%89%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2022-2B/2022%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%EF%BC%88B%EF%BC%89%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2022-2B__2022%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II%EF%BC%88B%EF%BC%89%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2023-2A",
-      "path": "科目/线性代数 II/2023-2A",
-      "files": [
+        },
         {
           "name": "2023级线代2A参考答案.pdf",
           "path": "科目/线性代数 II/2023-2A/2023级线代2A参考答案.pdf",
@@ -4165,13 +3395,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2023-2A/2023%E7%BA%A7%E7%BA%BF%E4%BB%A32A%E7%A9%BA%E7%99%BD%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2023-2A/2023%E7%BA%A7%E7%BA%BF%E4%BB%A32A%E7%A9%BA%E7%99%BD%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2023-2A__2023%E7%BA%A7%E7%BA%BF%E4%BB%A32A%E7%A9%BA%E7%99%BD%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2023-2B",
-      "path": "科目/线性代数 II/2023-2B",
-      "files": [
+        },
         {
           "name": "2023级线代2b参考答案.pdf",
           "path": "科目/线性代数 II/2023-2B/2023级线代2b参考答案.pdf",
@@ -4187,13 +3411,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2023-2B/2023%E7%BA%A7%E7%BA%BF%E4%BB%A32b%E7%A9%BA%E7%99%BD%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20II/2023-2B/2023%E7%BA%A7%E7%BA%BF%E4%BB%A32b%E7%A9%BA%E7%99%BD%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II__2023-2B__2023%E7%BA%A7%E7%BA%BF%E4%BB%A32b%E7%A9%BA%E7%99%BD%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "编译原理",
-      "path": "科目/编译原理",
-      "files": [
+        },
         {
           "name": "江南大学《编译原理》2020-2021学年期末试卷参考答案.pdf",
           "path": "科目/编译原理/江南大学《编译原理》2020-2021学年期末试卷参考答案.pdf",
@@ -4201,13 +3419,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "自动控制原理",
-      "path": "科目/自动控制原理",
-      "files": [
+        },
         {
           "name": "江南大学《自动控制原理》2017-2018学年期末试卷.pdf",
           "path": "科目/自动控制原理/江南大学《自动控制原理》2017-2018学年期末试卷.pdf",
@@ -4231,13 +3443,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%8616-17%EF%BC%88A%E7%AD%94%E6%A1%88%EF%BC%89%281%29.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%8616-17%EF%BC%88A%E7%AD%94%E6%A1%88%EF%BC%89%281%29.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86__%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%8616-17%EF%BC%88A%E7%AD%94%E6%A1%88%EF%BC%89%281%29.pdf"
-        }
-      ]
-    },
-    {
-      "name": "计算机组成原理",
-      "path": "科目/计算机组成原理",
-      "files": [
+        },
         {
           "name": "江南大学《计算机组成原理》2022-2023学年期末试卷B（有答案）.pdf",
           "path": "科目/计算机组成原理/江南大学《计算机组成原理》2022-2023学年期末试卷B（有答案）.pdf",
@@ -4245,13 +3451,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf"
-        }
-      ]
-    },
-    {
-      "name": "资料",
-      "path": "科目/计算机组成原理/资料",
-      "files": [
+        },
         {
           "name": "江南大学《计算机组成原理》-第4章输入输出系统-课件.pdf",
           "path": "科目/计算机组成原理/资料/江南大学《计算机组成原理》-第4章输入输出系统-课件.pdf",
@@ -4259,13 +3459,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%B5%84%E6%96%99/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B-%E7%AC%AC4%E7%AB%A0%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E7%B3%BB%E7%BB%9F-%E8%AF%BE%E4%BB%B6.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%B5%84%E6%96%99/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B-%E7%AC%AC4%E7%AB%A0%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E7%B3%BB%E7%BB%9F-%E8%AF%BE%E4%BB%B6.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86__%E8%B5%84%E6%96%99__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B-%E7%AC%AC4%E7%AB%A0%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E7%B3%BB%E7%BB%9F-%E8%AF%BE%E4%BB%B6.pdf"
-        }
-      ]
-    },
-    {
-      "name": "面向对象程序设计",
-      "path": "科目/面向对象程序设计",
-      "files": [
+        },
         {
           "name": "江南大学《面向对象程序设计》2020-2021学年期末试卷.pdf",
           "path": "科目/面向对象程序设计/江南大学《面向对象程序设计》2020-2021学年期末试卷.pdf",
@@ -4289,13 +3483,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "马克思主义基本原理",
-      "path": "科目/马克思主义基本原理",
-      "files": [
+        },
         {
           "name": "江南大学《马克思主义基本原理》2016-2017学年期末试卷.pdf",
           "path": "科目/马克思主义基本原理/江南大学《马克思主义基本原理》2016-2017学年期末试卷.pdf",
@@ -4335,13 +3523,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等代数 I",
-      "path": "科目/高等代数 I",
-      "files": [
+        },
         {
           "name": "未知年份-《高等代数I(1)》C卷.pdf",
           "path": "科目/高等代数 I/未知年份-《高等代数I(1)》C卷.pdf",
@@ -4349,13 +3531,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%20I/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E3%80%8A%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0I%281%29%E3%80%8BC%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%20I/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E3%80%8A%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0I%281%29%E3%80%8BC%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0I__%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E3%80%8A%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0I%281%29%E3%80%8BC%E5%8D%B7.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等代数与解析几何 I",
-      "path": "科目/高等代数与解析几何 I",
-      "files": [
+        },
         {
           "name": "大一高代期末.pdf",
           "path": "科目/高等代数与解析几何 I/大一高代期末.pdf",
@@ -4363,18 +3539,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%20I/%E5%A4%A7%E4%B8%80%E9%AB%98%E4%BB%A3%E6%9C%9F%E6%9C%AB.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%20I/%E5%A4%A7%E4%B8%80%E9%AB%98%E4%BB%A3%E6%9C%9F%E6%9C%AB.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95I__%E5%A4%A7%E4%B8%80%E9%AB%98%E4%BB%A3%E6%9C%9F%E6%9C%AB.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等代数与解析几何 II",
-      "path": "科目/高等代数与解析几何 II",
-      "files": []
-    },
-    {
-      "name": "练习",
-      "path": "科目/高等代数与解析几何 II/练习",
-      "files": [
+        },
         {
           "name": "2024-2025-2高等代数与解析几何II期中考试答案.pdf",
           "path": "科目/高等代数与解析几何 II/练习/2024-2025-2高等代数与解析几何II期中考试答案.pdf",
@@ -4382,13 +3547,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%20II/%E7%BB%83%E4%B9%A0/2024-2025-2%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95II%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%20II/%E7%BB%83%E4%B9%A0/2024-2025-2%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95II%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95II__%E7%BB%83%E4%B9%A0__2024-2025-2%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95II%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等数学 I",
-      "path": "科目/高等数学 I",
-      "files": [
+        },
         {
           "name": "2009级高等数学I(1)试卷(A).pdf",
           "path": "科目/高等数学 I/2009级高等数学I(1)试卷(A).pdf",
@@ -5084,13 +4243,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A61-2-B%20%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A61-2-B%20%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A61-2-B%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2019-2020-2高数1（2）A",
-      "path": "科目/高等数学 I/2019-2020-2高数1（2）A",
-      "files": [
+        },
         {
           "name": "高数1-2A-1.pdf",
           "path": "科目/高等数学 I/2019-2020-2高数1（2）A/高数1-2A-1.pdf",
@@ -5122,13 +4275,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/2019-2020-2%E9%AB%98%E6%95%B01%EF%BC%882%EF%BC%89A/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%282%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7A%20%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/2019-2020-2%E9%AB%98%E6%95%B01%EF%BC%882%EF%BC%89A/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%282%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7A%20%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__2019-2020-2%E9%AB%98%E6%95%B01%EF%BC%882%EF%BC%89A__%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%282%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2021级高等数学1(1)补考卷",
-      "path": "科目/高等数学 I/2021级高等数学1(1)补考卷",
-      "files": [
+        },
         {
           "name": "2021-2022-2高数1（1）补考卷参考答案.pdf",
           "path": "科目/高等数学 I/2021级高等数学1(1)补考卷/2021-2022-2高数1（1）补考卷参考答案.pdf",
@@ -5168,13 +4315,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/2021%E7%BA%A7%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A61%281%29%E8%A1%A5%E8%80%83%E5%8D%B7/%E8%A1%A5%E8%80%83%E5%8D%B7%E7%AC%AC%E4%BA%8C%E9%A1%B5.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/2021%E7%BA%A7%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A61%281%29%E8%A1%A5%E8%80%83%E5%8D%B7/%E8%A1%A5%E8%80%83%E5%8D%B7%E7%AC%AC%E4%BA%8C%E9%A1%B5.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__2021%E7%BA%A7%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A61%281%29%E8%A1%A5%E8%80%83%E5%8D%B7__%E8%A1%A5%E8%80%83%E5%8D%B7%E7%AC%AC%E4%BA%8C%E9%A1%B5.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2022级补考卷",
-      "path": "科目/高等数学 I/2022级补考卷",
-      "files": [
+        },
         {
           "name": "2022级高等数学I(1)期末考试卷.pdf",
           "path": "科目/高等数学 I/2022级补考卷/2022级高等数学I(1)期末考试卷.pdf",
@@ -5198,13 +4339,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/2022%E7%BA%A7%E8%A1%A5%E8%80%83%E5%8D%B7/22%E7%BA%A7%E9%AB%98%E6%95%B0I%281%29B%E8%A1%A5%E8%80%83%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/2022%E7%BA%A7%E8%A1%A5%E8%80%83%E5%8D%B7/22%E7%BA%A7%E9%AB%98%E6%95%B0I%281%29B%E8%A1%A5%E8%80%83%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__2022%E7%BA%A7%E8%A1%A5%E8%80%83%E5%8D%B7__22%E7%BA%A7%E9%AB%98%E6%95%B0I%281%29B%E8%A1%A5%E8%80%83%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "练习题",
-      "path": "科目/高等数学 I/练习题",
-      "files": [
+        },
         {
           "name": "2017级《高等数学I(2)》期中考试卷参考答案.pdf",
           "path": "科目/高等数学 I/练习题/2017级《高等数学I(2)》期中考试卷参考答案.pdf",
@@ -5228,13 +4363,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E7%BB%83%E4%B9%A0%E9%A2%98/2020%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%282%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E7%BB%83%E4%B9%A0%E9%A2%98/2020%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%282%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__%E7%BB%83%E4%B9%A0%E9%A2%98__2020%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%282%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高等数学 II",
-      "path": "科目/高等数学 II",
-      "files": [
+        },
         {
           "name": "2011级《高等数学II(1)》考试卷（A)参考答案.pdf",
           "path": "科目/高等数学 II/2011级《高等数学II(1)》考试卷（A)参考答案.pdf",
@@ -5842,13 +4971,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20II/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6II%EF%BC%882%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7%E7%AC%AC%E4%BA%8C%E9%A1%B5.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20II/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6II%EF%BC%882%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7%E7%AC%AC%E4%BA%8C%E9%A1%B5.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6II__%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6II%EF%BC%882%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8D%B7%E7%AC%AC%E4%BA%8C%E9%A1%B5.pdf"
-        }
-      ]
-    },
-    {
-      "name": "2021级高数II(1)补考卷",
-      "path": "科目/高等数学 II/2021级高数II(1)补考卷",
-      "files": [
+        },
         {
           "name": "高数21-1.pdf",
           "path": "科目/高等数学 II/2021级高数II(1)补考卷/高数21-1.pdf",
@@ -5872,13 +4995,7 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20II/2021%E7%BA%A7%E9%AB%98%E6%95%B0II%281%29%E8%A1%A5%E8%80%83%E5%8D%B7/%E9%AB%98%E6%95%B021-3.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20II/2021%E7%BA%A7%E9%AB%98%E6%95%B0II%281%29%E8%A1%A5%E8%80%83%E5%8D%B7/%E9%AB%98%E6%95%B021-3.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6II__2021%E7%BA%A7%E9%AB%98%E6%95%B0II%281%29%E8%A1%A5%E8%80%83%E5%8D%B7__%E9%AB%98%E6%95%B021-3.pdf"
-        }
-      ]
-    },
-    {
-      "name": "高级英语",
-      "path": "科目/高级英语",
-      "files": [
+        },
         {
           "name": "江南大学《高级英语》2022-2023学年期末试卷.pdf",
           "path": "科目/高级英语/江南大学《高级英语》2022-2023学年期末试卷.pdf",
@@ -5888,32 +5005,257 @@
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E9%AB%98%E7%BA%A7%E8%8B%B1%E8%AF%AD__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%BA%A7%E8%8B%B1%E8%AF%AD%E3%80%8B2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
         }
       ]
+    },
+    {
+      "name": "乱七八糟的资料",
+      "path": "乱七八糟的资料",
+      "files": [
+        {
+          "name": "r语言数据检验流程.md",
+          "path": "乱七八糟的资料/r语言数据检验流程.md",
+          "size": 339,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/r%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.md",
+          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/r%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.md",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/r%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.md"
+        },
+        {
+          "name": "未知年份线性代数(不知道I还是II)评分标准.pdf",
+          "path": "乱七八糟的资料/未知年份线性代数(不知道I还是II)评分标准.pdf",
+          "size": 4566642,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28%E4%B8%8D%E7%9F%A5%E9%81%93I%E8%BF%98%E6%98%AFII%29%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
+          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28%E4%B8%8D%E7%9F%A5%E9%81%93I%E8%BF%98%E6%98%AFII%29%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E6%9C%AA%E7%9F%A5%E5%B9%B4%E4%BB%BD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28%E4%B8%8D%E7%9F%A5%E9%81%93I%E8%BF%98%E6%98%AFII%29%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf"
+        },
+        {
+          "name": "自证：证明半正定矩阵的所有主子式非负.pdf",
+          "path": "乱七八糟的资料/自证：证明半正定矩阵的所有主子式非负.pdf",
+          "size": 1371499,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%87%AA%E8%AF%81%EF%BC%9A%E8%AF%81%E6%98%8E%E5%8D%8A%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5%E7%9A%84%E6%89%80%E6%9C%89%E4%B8%BB%E5%AD%90%E5%BC%8F%E9%9D%9E%E8%B4%9F.pdf",
+          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%87%AA%E8%AF%81%EF%BC%9A%E8%AF%81%E6%98%8E%E5%8D%8A%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5%E7%9A%84%E6%89%80%E6%9C%89%E4%B8%BB%E5%AD%90%E5%BC%8F%E9%9D%9E%E8%B4%9F.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%87%AA%E8%AF%81%EF%BC%9A%E8%AF%81%E6%98%8E%E5%8D%8A%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5%E7%9A%84%E6%89%80%E6%9C%89%E4%B8%BB%E5%AD%90%E5%BC%8F%E9%9D%9E%E8%B4%9F.pdf"
+        },
+        {
+          "name": "运筹作业.rar",
+          "path": "乱七八糟的资料/运筹作业.rar",
+          "size": 15376651,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E4%BD%9C%E4%B8%9A.rar",
+          "cf_url": "https://jnuexam.xyz/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E4%BD%9C%E4%B8%9A.rar",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E4%BD%9C%E4%B8%9A.rar"
+        }
+      ]
+    },
+    {
+      "name": "其他学校",
+      "path": "其他学校",
+      "files": [
+        {
+          "name": "理力试卷2000.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2000.pdf",
+          "size": 1184804,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72000.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72000.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72000.pdf"
+        },
+        {
+          "name": "理力试卷2001.wps",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2001.wps",
+          "size": 67897,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72001.wps",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72001.wps",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72001.wps"
+        },
+        {
+          "name": "理力试卷2002.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2002.pdf",
+          "size": 2398797,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72002.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72002.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72002.pdf"
+        },
+        {
+          "name": "理力试卷2004.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2004.pdf",
+          "size": 2409826,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72004.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72004.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72004.pdf"
+        },
+        {
+          "name": "理力试卷2005.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2005.pdf",
+          "size": 2439541,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72005.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72005.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72005.pdf"
+        },
+        {
+          "name": "理力试卷2006.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2006.pdf",
+          "size": 3094945,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006.pdf"
+        },
+        {
+          "name": "理力试卷2006（参考题）.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2006（参考题）.pdf",
+          "size": 2410556,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006%EF%BC%88%E5%8F%82%E8%80%83%E9%A2%98%EF%BC%89.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006%EF%BC%88%E5%8F%82%E8%80%83%E9%A2%98%EF%BC%89.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72006%EF%BC%88%E5%8F%82%E8%80%83%E9%A2%98%EF%BC%89.pdf"
+        },
+        {
+          "name": "理力试卷2007.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2007.pdf",
+          "size": 2506475,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72007.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72007.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72007.pdf"
+        },
+        {
+          "name": "理力试卷2008.pdf",
+          "path": "其他学校/大一下/理论力学/华南农业大学/理力试卷2008.pdf",
+          "size": 3210062,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72008.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72008.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6__%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%90%86%E5%8A%9B%E8%AF%95%E5%8D%B72008.pdf"
+        },
+        {
+          "name": "扬州大学《离散数学》2020-2021期末试卷.pdf",
+          "path": "其他学校/大一下/离散数学/扬州大学/扬州大学《离散数学》2020-2021期末试卷.pdf",
+          "size": 1869936,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2020-2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2020-2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2020-2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
+        },
+        {
+          "name": "扬州大学《离散数学》2021-2022期末试卷.pdf",
+          "path": "其他学校/大一下/离散数学/扬州大学/扬州大学《离散数学》2021-2022期末试卷.pdf",
+          "size": 1900981,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2021-2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2021-2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6__%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B2021-2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
+        },
+        {
+          "name": "21-22-2离散数学A卷.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学A卷.pdf",
+          "size": 4019128,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf"
+        },
+        {
+          "name": "21-22-2离散数学A卷参考答案.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学A卷参考答案.pdf",
+          "size": 4070822,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "21-22-2离散数学B卷.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学B卷.pdf",
+          "size": 3469941,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf"
+        },
+        {
+          "name": "21-22-2离散数学B卷参考答案.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/21-22-2离散数学B卷参考答案.pdf",
+          "size": 3555707,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__21-22-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "22-23-2离散数学A卷.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学A卷.pdf",
+          "size": 2946910,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7.pdf"
+        },
+        {
+          "name": "22-23-2离散数学A卷答案.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学A卷答案.pdf",
+          "size": 2462365,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "22-23-2离散数学B卷.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学B卷.pdf",
+          "size": 2397325,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7.pdf"
+        },
+        {
+          "name": "22-23-2离散数学B卷答案.pdf",
+          "path": "其他学校/大一下/离散数学/齐鲁工业大学/22-23-2离散数学B卷答案.pdf",
+          "size": 2398752,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__22-23-2%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "计算机系统基础复习题2025.pdf",
+          "path": "其他学校/大一下/计算机系统/齐鲁工业大学/练习/计算机系统基础复习题2025.pdf",
+          "size": 31049534,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%BB%83%E4%B9%A0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E9%A2%982025.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/%E7%BB%83%E4%B9%A0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E9%A2%982025.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F__%E9%BD%90%E9%B2%81%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6__%E7%BB%83%E4%B9%A0__%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E9%A2%982025.pdf"
+        },
+        {
+          "name": "广州大学《高等数学I(1)》2017-2018期末试卷B.pdf",
+          "path": "其他学校/大一下/高等数学 I/广州大学《高等数学I(1)》2017-2018期末试卷B.pdf",
+          "size": 3276257,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%281%29%E3%80%8B2017-2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%281%29%E3%80%8B2017-2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%85%B6%E4%BB%96%E5%AD%A6%E6%A0%A1/%E5%A4%A7%E4%B8%80%E4%B8%8B__%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I__%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%281%29%E3%80%8B2017-2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7B.pdf"
+        }
+      ]
+    },
+    {
+      "name": "存疑资料",
+      "path": "存疑资料",
+      "files": [
+        {
+          "name": "测试用文件1.pdf",
+          "path": "存疑资料/测试用文件1.pdf",
+          "size": 4080479,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E4%BB%B61.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E4%BB%B61.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E4%BB%B61.pdf"
+        },
+        {
+          "name": "江南大学《离散数学二》2020-2021学年期末试卷A卷.pdf",
+          "path": "存疑资料/离散数学/江南大学《离散数学二》2020-2021学年期末试卷A卷.pdf",
+          "size": 2816307,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C%E3%80%8B2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf"
+        },
+        {
+          "name": "江南大学《高等数学 I & II》2017-2018学年期中试卷.pdf",
+          "path": "存疑资料/高等数学/江南大学《高等数学 I & II》2017-2018学年期中试卷.pdf",
+          "size": 2751413,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I%20%26%20II%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20I%20%26%20II%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6I%26II%E3%80%8B2017-2018%E5%AD%A6%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf"
+        },
+        {
+          "name": "江南大学《高等数学下》2019-2020学年期末试卷.pdf",
+          "path": "存疑资料/高等数学/江南大学《高等数学下》2019-2020学年期末试卷.pdf",
+          "size": 3790434,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E5%AD%98%E7%96%91%E8%B5%84%E6%96%99/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6__%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf"
+        }
+      ]
     }
   ],
-  "files": [
-    {
-      "name": "LICENSE",
-      "path": "LICENSE",
-      "size": 721,
-      "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/LICENSE",
-      "cf_url": "https://jnuexam.xyz/LICENSE",
-      "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/LICENSE"
-    },
-    {
-      "name": "README.md",
-      "path": "README.md",
-      "size": 983,
-      "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/README.md",
-      "cf_url": "https://jnuexam.xyz/README.md",
-      "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/README.md"
-    },
-    {
-      "name": "source_list.json",
-      "path": "source_list.json",
-      "size": 643,
-      "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/source_list.json",
-      "cf_url": "https://jnuexam.xyz/source_list.json",
-      "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/source_list.json"
-    }
-  ]
+  "files": []
 }
