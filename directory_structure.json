@@ -3753,6 +3753,146 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/16%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/16%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__16%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E8%AF%95%E5%8D%B7%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf"
+        },
+        {
+          "name": "电路2008,2010.pdf",
+          "path": "科目/电路理论/电路2008,2010.pdf",
+          "size": 3940606,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/%E7%94%B5%E8%B7%AF2008%2C2010.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/%E7%94%B5%E8%B7%AF2008%2C2010.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__%E7%94%B5%E8%B7%AF2008%2C2010.pdf"
+        }
+      ]
+    },
+    {
+      "name": "12电路（A）",
+      "path": "科目/电路理论/12电路（A）",
+      "files": [
+        {
+          "name": "12电路（A）答案.pdf",
+          "path": "科目/电路理论/12电路（A）/12电路（A）答案.pdf",
+          "size": 2550691,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89__12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "12电路（A）试卷.pdf",
+          "path": "科目/电路理论/12电路（A）/12电路（A）试卷.pdf",
+          "size": 2421288,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89__12%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf"
+        }
+      ]
+    },
+    {
+      "name": "13电路",
+      "path": "科目/电路理论/13电路",
+      "files": [
+        {
+          "name": "13电路答案.pdf",
+          "path": "科目/电路理论/13电路/13电路答案.pdf",
+          "size": 2232431,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/13%E7%94%B5%E8%B7%AF/13%E7%94%B5%E8%B7%AF%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/13%E7%94%B5%E8%B7%AF/13%E7%94%B5%E8%B7%AF%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__13%E7%94%B5%E8%B7%AF__13%E7%94%B5%E8%B7%AF%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "13电路试卷.pdf",
+          "path": "科目/电路理论/13电路/13电路试卷.pdf",
+          "size": 2542380,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/13%E7%94%B5%E8%B7%AF/13%E7%94%B5%E8%B7%AF%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/13%E7%94%B5%E8%B7%AF/13%E7%94%B5%E8%B7%AF%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__13%E7%94%B5%E8%B7%AF__13%E7%94%B5%E8%B7%AF%E8%AF%95%E5%8D%B7.pdf"
+        }
+      ]
+    },
+    {
+      "name": "14电路",
+      "path": "科目/电路理论/14电路",
+      "files": [
+        {
+          "name": "14电路答案.pdf",
+          "path": "科目/电路理论/14电路/14电路答案.pdf",
+          "size": 2076446,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/14%E7%94%B5%E8%B7%AF/14%E7%94%B5%E8%B7%AF%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/14%E7%94%B5%E8%B7%AF/14%E7%94%B5%E8%B7%AF%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__14%E7%94%B5%E8%B7%AF__14%E7%94%B5%E8%B7%AF%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "14电路试卷.pdf",
+          "path": "科目/电路理论/14电路/14电路试卷.pdf",
+          "size": 537270,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/14%E7%94%B5%E8%B7%AF/14%E7%94%B5%E8%B7%AF%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/14%E7%94%B5%E8%B7%AF/14%E7%94%B5%E8%B7%AF%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__14%E7%94%B5%E8%B7%AF__14%E7%94%B5%E8%B7%AF%E8%AF%95%E5%8D%B7.pdf"
+        }
+      ]
+    },
+    {
+      "name": "15电路（A）",
+      "path": "科目/电路理论/15电路（A）",
+      "files": [
+        {
+          "name": "15试卷A.pdf",
+          "path": "科目/电路理论/15电路（A）/15试卷A.pdf",
+          "size": 2547572,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/15%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/15%E8%AF%95%E5%8D%B7A.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/15%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/15%E8%AF%95%E5%8D%B7A.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__15%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89__15%E8%AF%95%E5%8D%B7A.pdf"
+        },
+        {
+          "name": "15试卷（A）答案.pdf",
+          "path": "科目/电路理论/15电路（A）/15试卷（A）答案.pdf",
+          "size": 4274892,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/15%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/15%E8%AF%95%E5%8D%B7%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/15%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/15%E8%AF%95%E5%8D%B7%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__15%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89__15%E8%AF%95%E5%8D%B7%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "name": "21电路（A）",
+      "path": "科目/电路理论/21电路（A）",
+      "files": [
+        {
+          "name": "21电路（A）答案.pdf",
+          "path": "科目/电路理论/21电路（A）/21电路（A）答案.pdf",
+          "size": 2946710,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89__21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E7%AD%94%E6%A1%88.pdf"
+        },
+        {
+          "name": "21电路（A）试卷.pdf",
+          "path": "科目/电路理论/21电路（A）/21电路（A）试卷.pdf",
+          "size": 1221349,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89/21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89__21%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf"
+        }
+      ]
+    },
+    {
+      "name": "22电路（A）（B）",
+      "path": "科目/电路理论/22电路（A）（B）",
+      "files": [
+        {
+          "name": "电路2022（A）试卷.pdf",
+          "path": "科目/电路理论/22电路（A）（B）/电路2022（A）试卷.pdf",
+          "size": 309548,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/22%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%EF%BC%88B%EF%BC%89/%E7%94%B5%E8%B7%AF2022%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/22%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%EF%BC%88B%EF%BC%89/%E7%94%B5%E8%B7%AF2022%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__22%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%EF%BC%88B%EF%BC%89__%E7%94%B5%E8%B7%AF2022%EF%BC%88A%EF%BC%89%E8%AF%95%E5%8D%B7.pdf"
+        },
+        {
+          "name": "电路2022（B）试卷.pdf",
+          "path": "科目/电路理论/22电路（A）（B）/电路2022（B）试卷.pdf",
+          "size": 310386,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/22%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%EF%BC%88B%EF%BC%89/%E7%94%B5%E8%B7%AF2022%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA/22%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%EF%BC%88B%EF%BC%89/%E7%94%B5%E8%B7%AF2022%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA__22%E7%94%B5%E8%B7%AF%EF%BC%88A%EF%BC%89%EF%BC%88B%EF%BC%89__%E7%94%B5%E8%B7%AF2022%EF%BC%88B%EF%BC%89%E8%AF%95%E5%8D%B7.pdf"
         }
       ]
     },
