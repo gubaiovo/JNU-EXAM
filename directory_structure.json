@@ -1185,6 +1185,60 @@
       ]
     },
     {
+      "name": "大物I(2)模拟",
+      "path": "科目/大学物理 I/练习/大物I(2)模拟",
+      "files": [
+        {
+          "name": "1.pdf",
+          "path": "科目/大学物理 I/练习/大物I(2)模拟/1.pdf",
+          "size": 886524,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/1.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/1.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F__1.pdf"
+        },
+        {
+          "name": "1答.pdf",
+          "path": "科目/大学物理 I/练习/大物I(2)模拟/1答.pdf",
+          "size": 299124,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/1%E7%AD%94.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/1%E7%AD%94.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F__1%E7%AD%94.pdf"
+        },
+        {
+          "name": "2.pdf",
+          "path": "科目/大学物理 I/练习/大物I(2)模拟/2.pdf",
+          "size": 574756,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/2.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/2.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F__2.pdf"
+        },
+        {
+          "name": "2答.pdf",
+          "path": "科目/大学物理 I/练习/大物I(2)模拟/2答.pdf",
+          "size": 303007,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/2%E7%AD%94.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/2%E7%AD%94.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F__2%E7%AD%94.pdf"
+        },
+        {
+          "name": "3.pdf",
+          "path": "科目/大学物理 I/练习/大物I(2)模拟/3.pdf",
+          "size": 516806,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/3.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/3.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F__3.pdf"
+        },
+        {
+          "name": "3答.pdf",
+          "path": "科目/大学物理 I/练习/大物I(2)模拟/3答.pdf",
+          "size": 229391,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/3%E7%AD%94.pdf",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%20I/%E7%BB%83%E4%B9%A0/%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F/3%E7%AD%94.pdf",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I__%E7%BB%83%E4%B9%A0__%E5%A4%A7%E7%89%A9I%282%29%E6%A8%A1%E6%8B%9F__3%E7%AD%94.pdf"
+        }
+      ]
+    },
+    {
       "name": "猴博士复习笔记",
       "path": "科目/大学物理 I/练习/猴博士复习笔记",
       "files": [
@@ -3709,6 +3763,28 @@
           "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90/22%E6%88%9623%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%EF%BC%88A%EF%BC%89.pdf",
           "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90/22%E6%88%9623%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%EF%BC%88A%EF%BC%89.pdf",
           "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90__22%E6%88%9623%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%EF%BC%88A%EF%BC%89.pdf"
+        }
+      ]
+    },
+    {
+      "name": "练习",
+      "path": "科目/电工电子/练习",
+      "files": [
+        {
+          "name": "电工电子复习资料.PDF",
+          "path": "科目/电工电子/练习/电工电子复习资料.PDF",
+          "size": 597816,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90/%E7%BB%83%E4%B9%A0/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.PDF",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90/%E7%BB%83%E4%B9%A0/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.PDF",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90__%E7%BB%83%E4%B9%A0__%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.PDF"
+        },
+        {
+          "name": "电工电子试题.PDF",
+          "path": "科目/电工电子/练习/电工电子试题.PDF",
+          "size": 584054,
+          "github_raw_url": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90/%E7%BB%83%E4%B9%A0/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E8%AF%95%E9%A2%98.PDF",
+          "cf_url": "https://jnuexam.xyz/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90/%E7%BB%83%E4%B9%A0/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E8%AF%95%E9%A2%98.PDF",
+          "lanzou_url": "http://files.jnuexam.xyz:5244/d/lanzou/%E7%A7%91%E7%9B%AE/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90__%E7%BB%83%E4%B9%A0__%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E8%AF%95%E9%A2%98.PDF"
         }
       ]
     },
