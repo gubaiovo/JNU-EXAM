@@ -1,0 +1,15 @@
+# 开源协议
+
+所有位于仓库 [JNU-EXAM](https://github.com/gubaiovo/JNU-EXAM) 中的资料（包括但不限于 PDF、Word、图片、Markdown 笔记等非代码文件）均受此协议保护。
+
+**您有权：**
+- 在任何媒介以任何形式复制、发行本作品。
+- 修改、转换或以本作品为基础进行创作。
+
+**只要您遵守以下许可条款：**
+- 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。
+- 您不得将本作品用于商业目的。
+- 如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议分发您贡献的作品。
+
+完整协议文本：  
+https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans

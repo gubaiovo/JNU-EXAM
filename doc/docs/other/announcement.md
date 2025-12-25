@@ -1,0 +1,79 @@
+# 公告区
+
+## 2025/12/24 - 2
+更新内容：
+1. 上线 [web端下载器（点击此处即可访问）](https://jnuexam.gubaiovo.com/download/index.html)，适配全平台，支持换源下载。
+
+注意：web下载器目前还需完善，如果遇到问题请及时联系群主。
+
+## 2025/12/24 - 1
+Alist挂载服务不稳定，因此决定公开挂载的蓝奏云链接，可以直接到下面链接下载文件：  
+https://wwbdq.lanzouq.com/b0ulv939e，密码:eck7  
+由于蓝奏云限制了目录层级数量，因此只能将文件结构扁平化处理，使用`__`作为分隔符，例如：  
+- 原文件结构：/科目/高等代数/2025试题.pdf  
+- 扁平化后结构：/科目/高等代数__2025试题.pdf  
+
+## 2025/12/21
+更新内容：  
+1. 修复电脑端下载器
+    - 修复上次更新中由于减少下载器体积导致概率无法启动程序，或很长时间才能启动的问题。
+
+详细内容：  
+在上一次更新中，没有将 flet view 组件打包，导致首次启动会从github下载组件，从而导致下载器无法启动。  
+在本次更新中，我们将 flet view 组件打包，但是下载器体积会因此回升到 70mb 左右。
+请尽量避免使用 2025/12/18 版本的下载器。
+
+## 2025/12/18
+更新内容：  
+1. 大幅减少电脑端下载器的体积，优化启动速度。  
+
+详细内容：
+- 去除对requests库的依赖，使用原生http模块。  
+
+## 2025/12/14
+更新内容：  
+1. 修复安卓端下载器bug
+    - 修复只有打开软件重新加载才能源的问题
+    - 修复不同页面主题不一致的问题
+    - 优化部分细节
+2. 上线新的文档
+
+## 2025/12/13
+更新内容：  
+1. 优化应用整体架构，提升稳定性与可维护性  
+2. 安卓端升级页面导航与底部栏交互体验，适当使用液态玻璃
+3. 安卓端新增本地管理页面，操作更方便
+4. 安卓端文件路径迁移
+5. 安卓端和PC端支持手动输入源列表url
+6. 上线蓝奏云测试源
+
+关于源列表url：
+在上一次更新中，我们支持了仓库列表动态加载，加载仓库列表的方式为从[一个服务器](https://www.gubaiovo.com/jnu-exam/source_list.json)下载文件 `source_list.json` 并读取其中的仓库列表。  
+为了方便维护和管理，不再限制文件 `source_list.json` 下载链接。现在可以在源设置中填写其他下载 `source_list.json` 的链接。  
+下面提供几个可用的公开源列表 `source_list.json` 下载链接：
+1. 蓝奏云：`http://files.jnuexam.xyz:5244/d/lanzou/source_list.txt`
+2. Vercel：`https://www.gubaiovo.com/jnu-exam/source_list.json`
+3. Github: `https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/source_list.json`
+4. Cloudflare R2: `https://jnuexam.xyz/source_list.json`
+
+
+## 2025/12/12
+更新内容：
+1. 下载器优化：源列表动态加载。  
+2. 临时下线 Gitee 源。  
+3. 群文件结构更改，安卓下载器位于群文件夹 `安卓下载器 期末无挂`，PC下载器位于群文件夹 `PC 端下载器 JNU-EXAM-Downloader`；PC下载器文件名格式修改为 `JNU-EXAM-Downloader-更新日期.exe`  
+
+## 2025/12/11
+由于 Gitee 仓库被限制，暂时无法使用 Gitee 源下载资料，请使用 Github / Cloudflare R2 源下载。  
+如果 Gitee 仓库无法解除限制，将下线 Gitee 源。  
+
+## 2025/11/25
+更新内容：
+1. 接入 Cloudflare R2 下载源
+2.  PC端下载器重构，且与“期末无挂app”同步更新，双端均已支持 R2 源下载 
+
+计划： 
+1. 网页版下载页
+2. 优化 Cloudflare R2 速度 
+
+注：未来将视情况决定是否逐步下线 GitHub/Gitee 源，建议优先使用新的 R2 源。 （实际上，GitHub/Gitee 并不适合用作此类文件存储，因此使用 Cloudflare R2 对象存储。但是这样会失去 GitHub/Gitee 的 web 下载方式，因此需要开发一个 web 下载页）

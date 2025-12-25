@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>期末无挂 - JNU-EXAM Web版</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <style>
+        /* 基础设置 */
+        ::-webkit-scrollbar { width: 4px; height: 4px; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        [v-cloak] { display: none; }
+        body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+        /* 防止iOS点击高亮 */
+        * { -webkit-tap-highlight-color: transparent; }
+        
+        /* --- 动画类 --- */
+
+        /* 下拉菜单 */
+        .dropdown-enter-active { transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1); }
+        .dropdown-leave-active { transition: all 0.15s cubic-bezier(0.4, 0, 1, 1); }
+        .dropdown-enter-from, .dropdown-leave-to { opacity: 0; transform: scale(0.96) translateY(-8px); }
+
+        /* 目录树折叠 (GPU加速) */
+        .tree-expand {
+            display: grid;
+            grid-template-rows: 0fr;
+            transition: grid-template-rows 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);
+            will-change: grid-template-rows;
+        }
+        .tree-expand.open { grid-template-rows: 1fr; }
+        .tree-inner {
+            min-height: 0; overflow: hidden; contain: content; 
+            transform: translate3d(0,0,0); opacity: 0; transition: opacity 0.3s ease-out;
+        }
+        .tree-expand.open .tree-inner { opacity: 1; }
+
+        /* 移动端详情页滑入动画 (从右侧滑入) */
+        .page-slide-enter-active, .page-slide-leave-active {
+            transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .page-slide-enter-from, .page-slide-leave-to {
+            transform: translateX(100%);
+            opacity: 0; 
+        }
+        /* 桌面端保持淡入上浮 */
+        @media (min-width: 768px) {
+            .page-slide-enter-from, .page-slide-leave-to {
+                transform: translateY(15px);
+                opacity: 0;
+            }
+            .page-slide-enter-from { transform: translateY(15px); }
+            .page-slide-leave-to { transform: translateY(-10px); }
+        }
+        
+        /* 弹窗淡入 */
+        .fade-enter-active, .fade-leave-active { transition: opacity 0.2s ease; }
+        .fade-enter-from, .fade-leave-to { opacity: 0; }
+    </style>
+</head>
+<body class="bg-[#f8fafc] h-screen flex flex-col overflow-hidden text-slate-700 font-sans selection:bg-indigo-100 selection:text-indigo-700">
+
+<div id="app" v-cloak class="h-full flex flex-col relative">
+    
+    <div v-if="showSourceMenu" @click="showSourceMenu = false" class="fixed inset-0 z-40 cursor-default"></div>
+
+    <header class="bg-white/90 backdrop-blur-sm border-b border-slate-200/60 px-4 md:px-6 py-3 flex items-center shadow-[0_2px_15px_-3px_rgba(0,0,0,0.02)] z-30 relative shrink-0">
+        <div class="flex items-center gap-2 md:gap-3 mr-2 md:mr-8 select-none shrink-0">
+            <div class="bg-gradient-to-br from-indigo-500 to-blue-600 text-white p-1.5 rounded-lg shadow-lg shadow-indigo-200">
+                <i class="ri-school-fill text-lg md:text-xl"></i>
+            </div>
+            <h1 class="text-lg md:text-xl font-bold tracking-tight text-slate-800 hidden md:block">期末无挂 <span class="text-[10px] font-bold text-indigo-500 bg-indigo-50 px-2 py-0.5 rounded-full ml-1 border border-indigo-100 uppercase tracking-wider">Web</span></h1>
+            <h1 class="text-lg font-bold tracking-tight text-slate-800 md:hidden">JNU Exam</h1>
+        </div>
+
+        <div class="relative flex-1 md:flex-none w-0 md:w-auto min-w-[120px]">
+            <button @click="showSourceMenu = !showSourceMenu" 
+                class="w-full md:w-auto flex items-center justify-between gap-2 bg-slate-100/80 hover:bg-white hover:shadow-md border border-transparent hover:border-slate-200 px-3 py-2 rounded-xl text-sm font-medium transition-all duration-300 group outline-none">
+                <div class="flex items-center gap-2 truncate">
+                    <i class="ri-server-line text-slate-500 group-hover:text-indigo-500 transition-colors"></i>
+                    <span class="text-slate-700 truncate">{{ currentSourceKey || '选择数据源' }}</span>
+                </div>
+                <i class="ri-arrow-down-s-line text-slate-400 shrink-0 transition-transform duration-300" 
+                   :class="{'rotate-180': showSourceMenu}"></i>
+            </button>
+
+            <transition name="dropdown">
+                <div v-if="showSourceMenu" class="absolute top-full left-0 mt-2 w-full md:w-60 bg-white rounded-2xl shadow-xl shadow-slate-200/60 border border-slate-100/80 overflow-hidden z-50 p-2 transform origin-top-left">
+                    <div class="text-[10px] font-bold text-slate-400 px-3 py-2 uppercase tracking-widest">Available Nodes</div>
+                    <div v-for="(conf, name) in sourceConfig" :key="name" 
+                         @click="changeSource(name)"
+                         class="flex items-center gap-3 px-3 py-3 md:py-2.5 rounded-xl cursor-pointer text-sm transition-all duration-200 relative group"
+                         :class="currentSourceKey === name ? 'bg-indigo-50 text-indigo-700' : 'hover:bg-slate-50 text-slate-600'">
+                        <i :class="currentSourceKey === name ? 'ri-radio-button-line' : 'ri-checkbox-blank-circle-line'" 
+                           class="text-lg opacity-70 group-hover:opacity-100 transition-opacity"
+                           :class="currentSourceKey === name ? 'text-indigo-600' : 'text-slate-300'"></i>
+                        <span :class="{'font-semibold': currentSourceKey === name}">{{ name }}</span>
+                    </div>
+                </div>
+            </transition>
+        </div>
+
+        <div class="flex gap-1 md:gap-2 ml-2 shrink-0">
+            <button @click="showSettings = true" class="w-9 h-9 flex items-center justify-center text-slate-400 hover:text-slate-700 hover:bg-slate-100 rounded-full transition-all active:scale-90" title="设置">
+                <i class="ri-settings-4-line text-lg"></i>
+            </button>
+            <button @click="loadData" class="w-9 h-9 flex items-center justify-center text-slate-400 hover:text-indigo-600 hover:bg-indigo-50 rounded-full transition-all active:scale-90" title="刷新">
+                <i class="ri-refresh-line text-lg" :class="{'animate-spin': loading}"></i>
+            </button>
+        </div>
+    </header>
+
+    <div class="flex flex-1 overflow-hidden relative">
+        
+        <aside class="w-full md:w-80 bg-white/80 md:backdrop-blur border-r border-slate-200/60 flex flex-col z-10 h-full">
+            <div class="p-4 border-b border-slate-50">
+                <div class="relative group">
+                    <i class="ri-search-2-line absolute left-3.5 top-2.5 text-slate-400 group-focus-within:text-indigo-500 transition-colors"></i>
+                    <input type="text" v-model="searchQuery" placeholder="搜索资料..." 
+                        class="w-full bg-slate-50/80 pl-10 pr-4 py-2.5 rounded-xl text-sm border border-transparent focus:bg-white focus:border-indigo-200 focus:ring-4 focus:ring-indigo-50/50 outline-none transition-all placeholder:text-slate-400 appearance-none">
+                </div>
+            </div>
+
+            <div class="flex-1 overflow-y-auto p-2 select-none overscroll-contain">
+                <div v-if="loading" class="flex flex-col items-center justify-center py-20 text-slate-400">
+                    <div class="relative">
+                        <div class="w-10 h-10 border-4 border-slate-100 border-t-indigo-500 rounded-full animate-spin"></div>
+                    </div>
+                    <p class="text-xs mt-4 font-medium tracking-wide">解析目录结构...</p>
+                </div>
+
+                <div v-else-if="searchQuery" class="space-y-1">
+                    <div v-for="file in searchResults" :key="file.path" 
+                        @click="selectFile(file)"
+                        class="cursor-pointer p-3 hover:bg-indigo-50/60 rounded-xl flex items-center gap-3 transition-colors border border-transparent hover:border-indigo-100/50 group active:bg-slate-100">
+                        <div class="p-2 bg-slate-100 rounded-lg group-hover:bg-white text-slate-400 group-hover:text-indigo-500 transition-colors">
+                            <i class="ri-file-search-line"></i>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div class="text-sm font-medium text-slate-700 truncate" v-html="highlight(file.name)"></div>
+                            <div class="text-xs text-slate-400 truncate">{{ file.path }}</div>
+                        </div>
+                    </div>
+                    <div v-if="searchResults.length === 0" class="text-center text-slate-400 mt-12 text-sm">
+                        <i class="ri-inbox-line text-3xl mb-2 block opacity-30"></i>
+                        未找到相关文件
+                    </div>
+                </div>
+
+                <div v-else class="space-y-0.5 pt-1 pb-20 md:pb-0">
+                    <tree-item 
+                        v-for="node in treeData" 
+                        :key="node.path" 
+                        :node="node" 
+                        :selected-file="selectedFile"
+                        @select-file="selectFile">
+                    </tree-item>
+                </div>
+            </div>
+
+            <div class="hidden md:block py-2.5 border-t border-slate-100 bg-slate-50/30 text-[10px] text-slate-400 text-center font-medium">
+                <i class="ri-shield-check-line align-middle text-emerald-500 mr-1"></i> 
+                <span>Web 端已自动优化并屏蔽 GitHub 源</span>
+            </div>
+        </aside>
+
+        <transition name="page-slide">
+            <main v-if="selectedFile" 
+                  class="fixed inset-0 z-40 bg-slate-50 md:bg-slate-50/50 md:static md:flex-1 flex flex-col items-center justify-center md:p-6 overflow-hidden">
+                
+                <div class="md:hidden absolute top-0 left-0 w-full h-14 bg-white/80 backdrop-blur border-b border-slate-200 flex items-center px-4 z-50">
+                    <button @click="selectedFile = null" class="flex items-center gap-1 text-indigo-600 font-medium active:opacity-60">
+                        <i class="ri-arrow-left-s-line text-xl"></i>
+                        返回目录
+                    </button>
+                    <div class="flex-1 text-center pr-16 truncate text-sm font-bold text-slate-700">
+                        文件详情
+                    </div>
+                </div>
+
+                <div class="absolute inset-0 opacity-[0.015] pointer-events-none flex items-center justify-center overflow-hidden hidden md:flex">
+                    <i class="ri-book-mark-line text-[500px] -rotate-12 translate-x-20 translate-y-20"></i>
+                </div>
+
+                <div class="w-full h-full md:h-auto md:max-w-2xl bg-white md:bg-white/90 md:backdrop-blur-xl md:rounded-[2rem] md:shadow-[0_20px_40px_-15px_rgba(0,0,0,0.05)] p-6 pt-20 md:p-12 text-center md:border border-white/80 relative z-10 md:ring-1 md:ring-slate-900/5 flex flex-col md:block justify-center">
+                    
+                    <div class="mb-8 relative inline-flex items-center justify-center group shrink-0">
+                        <div class="absolute inset-0 bg-indigo-100 rounded-full blur-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-700 hidden md:block"></div>
+                        <i :class="getFileIcon(selectedFile.name)" class="text-8xl md:text-7xl relative z-10 drop-shadow-sm transition-transform duration-500 md:group-hover:scale-110 md:group-hover:-rotate-3"></i>
+                    </div>
+                    
+                    <h2 class="text-2xl font-bold text-slate-800 mb-3 break-all leading-tight px-4">{{ selectedFile.name }}</h2>
+                    <p class="text-slate-500 text-xs mb-10 font-mono bg-slate-100 inline-block px-4 py-1.5 rounded-full border border-slate-200 max-w-full truncate mx-auto">{{ selectedFile.path }}</p>
+
+                    <div class="grid grid-cols-2 gap-4 md:gap-5 mb-10 w-full">
+                        <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                            <div class="text-[10px] text-slate-400 font-bold uppercase tracking-widest mb-1.5">File Size</div>
+                            <div class="text-xl font-bold text-slate-700 font-mono tracking-tight">{{ formatSize(selectedFile.size) }}</div>
+                        </div>
+                        <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                            <div class="text-[10px] text-slate-400 font-bold uppercase tracking-widest mb-1.5">Source Node</div>
+                            <div class="text-xl font-bold text-indigo-600 truncate">{{ currentSourceKey }}</div>
+                        </div>
+                    </div>
+
+                    <div class="flex gap-4 justify-center mt-auto md:mt-0">
+                        <a :href="currentDownloadUrl" target="_blank" 
+                           class="w-full md:w-auto group relative inline-flex items-center justify-center px-10 py-4 text-base font-bold text-white transition-all duration-300 bg-slate-900 rounded-2xl hover:bg-indigo-600 shadow-xl shadow-slate-900/10 hover:shadow-indigo-600/30 hover:-translate-y-1 overflow-hidden">
+                            <span class="absolute inset-0 w-full h-full -mt-1 rounded-lg opacity-30 bg-gradient-to-b from-transparent via-transparent to-black"></span>
+                            <i class="ri-download-cloud-2-fill mr-2 text-xl md:group-hover:animate-[bounce_1s_infinite]"></i>
+                            <span class="relative">立即下载</span>
+                        </a>
+                    </div>
+                </div>
+            </main>
+        </transition>
+
+        <main v-if="!selectedFile" class="hidden md:flex flex-1 bg-slate-50/50 flex-col items-center justify-center p-6 select-none">
+            <div class="text-center relative z-10">
+                <div class="w-28 h-28 bg-white/60 rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm border border-white">
+                    <i class="ri-folder-open-line text-5xl text-slate-300 ml-2"></i>
+                </div>
+                <h3 class="text-lg font-semibold text-slate-700 mb-2">准备就绪</h3>
+                <p class="text-slate-400 text-sm max-w-xs mx-auto">请从左侧目录选择你需要的文件，或使用顶部搜索框</p>
+            </div>
+        </main>
+    </div>
+
+    <transition name="fade">
+        <div v-if="showSettings" class="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 flex items-center justify-center p-4" @click.self="showSettings = false">
+            <div class="bg-white w-full max-w-md rounded-3xl shadow-2xl p-6 md:p-8 transform transition-all border border-white/50 relative overflow-hidden">
+                <div class="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500"></div>
+                
+                <div class="flex items-center justify-between mb-6">
+                    <h3 class="text-lg md:text-xl font-bold flex items-center gap-2 text-slate-800">
+                        配置源列表
+                    </h3>
+                    <button @click="showSettings = false" class="text-slate-300 hover:text-slate-600 transition-colors p-2">
+                        <i class="ri-close-circle-fill text-2xl"></i>
+                    </button>
+                </div>
+                
+                <div class="mb-8">
+                    <label class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-3">Source JSON URL</label>
+                    <div class="relative">
+                        <textarea v-model="tempConfigUrl" rows="3"
+                            class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 outline-none transition-all font-mono text-slate-600 resize-none leading-relaxed shadow-inner"
+                            placeholder="https://..."></textarea>
+                    </div>
+                </div>
+
+                <div class="flex justify-end gap-3">
+                    <button @click="resetConfig" class="px-5 py-3 text-sm font-semibold text-slate-500 hover:text-slate-700 hover:bg-slate-100 rounded-xl transition-colors">恢复默认</button>
+                    <button @click="saveConfig" class="px-6 py-3 text-sm font-bold text-white bg-indigo-600 hover:bg-indigo-700 rounded-xl shadow-lg shadow-indigo-200 hover:shadow-indigo-300 transition-all active:scale-95">保存更改</button>
+                </div>
+            </div>
+        </div>
+    </transition>
+
+</div>
+
+<script type="text/x-template" id="tree-item-template">
+    <div class="select-none text-[14px] md:text-[13px]">
+        <div v-if="node.type === 'dir'" class="mb-0.5">
+            <div @click="toggle" 
+                class="flex items-center gap-2 px-3 py-3 md:py-2 hover:bg-slate-100/80 rounded-xl cursor-pointer transition-colors group active:bg-slate-200 duration-100">
+                
+                <div class="w-5 h-5 flex items-center justify-center transition-transform duration-300 ease-out" 
+                     :class="isOpen ? 'rotate-90' : ''">
+                    <i class="ri-arrow-right-s-fill text-slate-300 text-xs"></i>
+                </div>
+                
+                <i :class="[
+                    isOpen ? 'ri-folder-open-fill text-amber-400' : 'ri-folder-3-fill text-amber-400',
+                    'text-xl md:text-lg transition-all duration-300',
+                    isOpen ? 'scale-110 drop-shadow-sm' : ''
+                ]"></i>
+                
+                <span class="font-medium text-slate-600 truncate flex-1">{{ node.name }}</span>
+            </div>
+            
+            <div class="tree-expand" :class="{ open: isOpen }">
+                <div class="tree-inner pl-4 border-l border-slate-100 ml-3.5 space-y-0.5 my-0.5">
+                    <tree-item 
+                        v-for="child in node.children" 
+                        :key="child.path" 
+                        :node="child"
+                        :selected-file="selectedFile"
+                        @select-file="$emit('select-file', $event)">
+                    </tree-item>
+                </div>
+            </div>
+        </div>
+
+        <div v-else 
+             @click="$emit('select-file', node)"
+             :class="['flex items-center gap-3 px-3 py-3 md:py-2 rounded-xl cursor-pointer transition-all duration-200 ml-4 active:scale-[0.98]', 
+                      selectedFile && selectedFile.path === node.path ? 'bg-indigo-50 text-indigo-700 font-semibold shadow-sm ring-1 ring-indigo-100' : 'hover:bg-slate-100 text-slate-500']">
+            <i class="ri-file-line text-lg opacity-60 transition-colors" :class="selectedFile && selectedFile.path === node.path ? 'text-indigo-500' : 'text-slate-300'"></i>
+            <span class="truncate">{{ node.name }}</span>
+        </div>
+    </div>
+</script>
+
+<script>
+    const { createApp, ref, computed, onMounted } = Vue;
+    const DEFAULT_CONFIG_URL = "https://www.gubaiovo.com/jnu-exam/source_list.json";
+    const STORAGE_KEY = "custom_config_url";
+
+    const TreeItem = {
+        name: 'TreeItem',
+        template: '#tree-item-template',
+        props: ['node', 'selectedFile'],
+        emits: ['select-file'],
+        setup() {
+            const isOpen = ref(false);
+            const toggle = () => isOpen.value = !isOpen.value;
+            return { isOpen, toggle };
+        }
+    };
+
+    const app = createApp({
+        setup() {
+            const configUrl = ref(localStorage.getItem(STORAGE_KEY) || DEFAULT_CONFIG_URL);
+            const sourceConfig = ref({});
+            const currentSourceKey = ref("");
+            const showSourceMenu = ref(false);
+            const treeData = ref([]);
+            const allFiles = ref([]);
+            const selectedFile = ref(null);
+            const loading = ref(false);
+            const searchQuery = ref("");
+            const showSettings = ref(false);
+            const tempConfigUrl = ref(configUrl.value);
+
+            const initConfig = async () => {
+                loading.value = true;
+                try {
+                    const res = await fetch(configUrl.value);
+                    if(!res.ok) throw new Error("Config fetch failed");
+                    const data = await res.json();
+                    
+                    const formatted = {};
+                    for (const [key, val] of Object.entries(data)) {
+                        if (key.toLowerCase().includes('github')) continue;
+                        formatted[key] = { jsonUrl: val.dir_url || val.json_url, fileKey: val.file_key };
+                    }
+                    sourceConfig.value = formatted;
+                    
+                    const keys = Object.keys(formatted);
+                    if (keys.length > 0) {
+                        const r2Key = keys.find(k => k.toLowerCase().includes('r2'));
+                        currentSourceKey.value = r2Key || keys[0];
+                        loadData();
+                    }
+                } catch (e) {
+                    alert(`加载配置失败: ${e.message}`);
+                } finally {
+                    loading.value = false;
+                }
+            };
+
+            const loadData = async () => {
+                if (!currentSourceKey.value) return;
+                loading.value = true;
+                selectedFile.value = null;
+                treeData.value = [];
+                
+                const config = sourceConfig.value[currentSourceKey.value];
+                
+                try {
+                    const res = await fetch(config.jsonUrl);
+                    const json = await res.json();
+                    buildTree(json);
+                } catch (e) {
+                    alert("加载目录数据失败，请检查源配置");
+                } finally {
+                    loading.value = false;
+                }
+            };
+
+            const buildTree = (data) => {
+                const root = [];
+                const pathMap = { "": root };
+                const flatFileList = [];
+                const rawDirs = data.dirs || [];
+                
+                const sortedDirs = rawDirs.sort((a, b) => 
+                    (a.path.match(/\//g) || []).length - (b.path.match(/\//g) || []).length
+                );
+
+                sortedDirs.forEach(dir => {
+                    let parentPath = "";
+                    if (dir.path.includes('/')) {
+                        parentPath = dir.path.substring(0, dir.path.lastIndexOf('/'));
+                    }
+                    
+                    const dirNode = { name: dir.name, path: dir.path, type: 'dir', children: [] };
+                    
+                    if (pathMap[parentPath]) pathMap[parentPath].push(dirNode);
+                    else root.push(dirNode);
+                    
+                    pathMap[dir.path] = dirNode.children;
+                    
+                    if (dir.files) {
+                        dir.files.forEach(f => {
+                            f.type = 'file';
+                            dirNode.children.push(f);
+                            flatFileList.push(f);
+                        });
+                        dirNode.children.sort((a, b) => a.name.localeCompare(b.name));
+                    }
+                });
+
+                if (data.files) {
+                    data.files.forEach(f => {
+                        f.type = 'file';
+                        root.push(f);
+                        flatFileList.push(f);
+                    });
+                }
+
+                treeData.value = root;
+                allFiles.value = flatFileList;
+            };
+
+            const changeSource = (name) => {
+                currentSourceKey.value = name;
+                showSourceMenu.value = false;
+                loadData();
+            };
+
+            const saveConfig = () => {
+                if (!tempConfigUrl.value.trim()) return;
+                configUrl.value = tempConfigUrl.value.trim();
+                localStorage.setItem(STORAGE_KEY, configUrl.value);
+                showSettings.value = false;
+                initConfig();
+            };
+
+            const resetConfig = () => { tempConfigUrl.value = DEFAULT_CONFIG_URL; };
+
+            const currentDownloadUrl = computed(() => {
+                if (!selectedFile.value || !currentSourceKey.value) return "#";
+                return selectedFile.value[sourceConfig.value[currentSourceKey.value].fileKey] || "#";
+            });
+
+            const searchResults = computed(() => {
+                if (!searchQuery.value) return [];
+                const q = searchQuery.value.toLowerCase();
+                return allFiles.value.filter(f => f.name.toLowerCase().includes(q));
+            });
+
+            const selectFile = (file) => selectedFile.value = file;
+            
+            const formatSize = (size) => {
+                if (size === 0) return '0 B';
+                const i = Math.floor(Math.log(size) / Math.log(1024));
+                return parseFloat((size / Math.pow(1024, i)).toFixed(2)) + ' ' + ['B', 'KB', 'MB', 'GB'][i];
+            };
+
+            const getFileIcon = (name) => {
+                const ext = name.split('.').pop().toLowerCase();
+                if (ext === 'pdf') return 'ri-file-pdf-fill text-rose-500';
+                if (['zip', 'rar', '7z'].includes(ext)) return 'ri-folder-zip-fill text-amber-500';
+                if (['doc', 'docx'].includes(ext)) return 'ri-file-word-fill text-blue-500';
+                if (['ppt', 'pptx'].includes(ext)) return 'ri-file-ppt-fill text-orange-500';
+                return 'ri-file-text-fill text-slate-400';
+            };
+
+            const highlight = (text) => {
+                const q = searchQuery.value;
+                if(!q) return text;
+                return text.replace(new RegExp(q, "gi"), match => `<span class="text-indigo-600 font-bold bg-indigo-50">${match}</span>`);
+            }
+
+            onMounted(() => initConfig());
+
+            return {
+                sourceConfig, currentSourceKey, showSourceMenu, treeData, selectedFile, loading, 
+                searchQuery, searchResults, currentDownloadUrl, showSettings, tempConfigUrl,
+                changeSource, loadData, selectFile, formatSize, getFileIcon, highlight, saveConfig, resetConfig
+            };
+        }
+    });
+
+    app.component('tree-item', TreeItem);
+    app.mount('#app');
+</script>
+</body>
+</html>
