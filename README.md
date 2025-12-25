@@ -9,9 +9,13 @@ A free and open-source exam resource website
 
 </p>
 
-<b>一个完全免费开源的江南大学考试资料共享仓库 🎓
+<b>
+一个完全免费开源的江南大学考试资料共享仓库 🎓
 </b>
-<b> 收录历年真题、复习笔记、课件PPT，支持 Github / R2 / 蓝奏云 多线路下载</b>
+
+<b> 
+收录历年真题、复习笔记、课件PPT，支持 Github / R2 / 蓝奏云 多线路下载
+</b>
 
 如果该项目对你有帮助, 欢迎 star🌟 & fork🍴
 
