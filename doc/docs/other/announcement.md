@@ -1,15 +1,5 @@
 # 公告区
 
-## 2026/01/05  
-更新内容：  
-1. 重构 PC 端下载器，增加对 Windows x86/arm64、Linux x64 的支持。  
-2. PC 端下载器增加深色/浅色模式切换，增加下载文件后打开文件位置功能。    
-3. PC 端下载器命名规则修改为 `JNU-EXAM-Downloader-版本号-支持的平台.exe`。  
-
-详细内容：  
-在此次更新之前，PC 端下载器使用 Python Flet 编写，打包体积较大且启动速度较慢。新版使用 Go + Wails 重构，并使用Github Actions 自动打包。  
-目前仍在测试中，有问题请及时反馈。
-
 ## 2025/12/24 - 2
 更新内容：
 1. 上线 [web端下载器（点击此处即可访问）](https://jnuexam.gubaiovo.com/download/index.html)，适配全平台，支持换源下载。
