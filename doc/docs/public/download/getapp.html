@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>下载 JNU-EXAM-Downloader</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; text-align: center; padding: 50px 20px; background-color: #f4f6f8; }
+        .container { max-width: 600px; margin: 0 auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h1 { color: #333; margin-bottom: 10px; }
+        p { color: #666; margin-bottom: 30px; }
+        .btn { 
+            background-color: #2da44e; color: white; padding: 18px 36px; 
+            text-decoration: none; font-size: 20px; border-radius: 6px; 
+            display: inline-block; font-weight: bold; transition: background 0.2s;
+        }
+        .btn:hover { background-color: #2c974b; }
+        .sub-links { margin-top: 25px; font-size: 14px; color: #586069; }
+        .sub-links a { color: #0366d6; text-decoration: none; margin: 0 5px; }
+        .sub-links a:hover { text-decoration: underline; }
+        .icon { font-size: 24px; margin-right: 8px; vertical-align: middle; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>JNU-EXAM-Downloader</h1>
+        <p id="os-detect">正在识别您的系统...</p>
+        
+        <a id="download-btn" href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest" class="btn">
+            前往下载页面
+        </a>
+
+        <div class="sub-links" id="backup-links">
+            <p>其他版本：</p>
+            <a href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/JNU-EXAM-Downloader-windows-386.exe">Windows x86</a> |
+            <a href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/JNU-EXAM-Downloader-windows-arm64.exe">Windows ARM</a> |
+            <a href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/JNU-EXAM-Downloader-linux-amd64">Linux</a>
+        </div>
+    </div>
+
+    <script>
+        const baseUrl = "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/";
+        
+        const files = {
+            win64: "JNU-EXAM-Downloader-windows-amd64.exe",
+            win32: "JNU-EXAM-Downloader-windows-386.exe",
+            winArm: "JNU-EXAM-Downloader-windows-arm64.exe",
+            linux: "JNU-EXAM-Downloader-linux-amd64"
+        };
+
+        const userAgent = navigator.userAgent;
+        const btn = document.getElementById('download-btn');
+        const msg = document.getElementById('os-detect');
+
+        if (userAgent.indexOf("Win") != -1) {
+            msg.innerText = "识别到您使用的是 Windows";
+            
+            if (userAgent.indexOf("ARM") != -1 || userAgent.indexOf("Arm") != -1) {
+                 btn.innerHTML = "<span class='icon'>🪟</span>下载 Windows ARM 版";
+                 btn.href = baseUrl + files.winArm;
+            } else {
+                btn.innerHTML = "<span class='icon'>🪟</span>下载 Windows 版 (推荐)";
+                btn.href = baseUrl + files.win64;
+            }
+        } else if (userAgent.indexOf("Linux") != -1 && userAgent.indexOf("Android") == -1) {
+            msg.innerText = "识别到您使用的是 Linux";
+            btn.innerHTML = "<span class='icon'>🐧</span>下载 Linux 版";
+            btn.href = baseUrl + files.linux;
+        } else {
+            msg.innerText = "请从下方列表选择适合您的版本";
+            btn.innerText = "查看所有版本";
+            btn.href = "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest";
+        }
+    </script>
+</body>
+</html>

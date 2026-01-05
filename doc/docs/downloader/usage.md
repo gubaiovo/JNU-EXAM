@@ -1,5 +1,12 @@
 # 怎么用下载器
 
+## 获取下载器  
+Web 端下载器直接访问 [https://jnuexam.gubaiovo.com/download/index.html](https://jnuexam.gubaiovo.com/download/index.html) 即可使用。  
+对于电脑端和手机端，可以到 QQ 群 `757343447` 群文件获取。  
+对于电脑下载器，可以到 [Github Releases](https://github.com/gubaiovo/JNU-EXAM-Downloader/releases) 页面下载。如果不知道怎么在Github Releases 页面下载，也可以到 [下载 JNU-EXAM-Downloader](https://jnuexam.gubaiovo.com/download/getapp.html) 页面下载。  
+
+## 使用下载器
+
 建议在使用前，先了解下载器的基本工作流程，这将帮助您更顺利地找到所需文件。整个过程主要分为以下三步：
 
 1. 查看下载源

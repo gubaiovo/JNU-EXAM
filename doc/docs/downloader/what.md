@@ -7,4 +7,6 @@
 - 电脑端目前只支持 `Windows x86/64/arm64`、`Linux x64`
 - 手机端目前只支持 `安卓`
 
-可以到 QQ 群 `757343447` 获取下载器
+以及一个 Web 版本的下载器，可以直接在浏览器中使用，无需安装软件。
+
+下载器获取方式：[怎么用下载器](https://jnuexam.gubaiovo.com/downloader/usage.html)
