@@ -13,8 +13,10 @@
             background-color: #2da44e; color: white; padding: 18px 36px; 
             text-decoration: none; font-size: 20px; border-radius: 6px; 
             display: inline-block; font-weight: bold; transition: background 0.2s;
+            cursor: pointer;
         }
         .btn:hover { background-color: #2c974b; }
+        .btn.disabled { background-color: #94d3a2; cursor: wait; }
         .sub-links { margin-top: 25px; font-size: 14px; color: #586069; }
         .sub-links a { color: #0366d6; text-decoration: none; margin: 0 5px; }
         .sub-links a:hover { text-decoration: underline; }
@@ -24,53 +26,93 @@
 <body>
     <div class="container">
         <h1>JNU-EXAM-Downloader</h1>
-        <p id="os-detect">正在识别您的系统...</p>
+        <p id="os-detect">正在获取最新版本信息...</p>
         
-        <a id="download-btn" href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest" class="btn">
-            前往下载页面
+        <a id="download-btn" href="#" class="btn disabled">
+            加载中...
         </a>
 
         <div class="sub-links" id="backup-links">
             <p>其他版本：</p>
-            <a href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/JNU-EXAM-Downloader-windows-386.exe">Windows x86</a> |
-            <a href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/JNU-EXAM-Downloader-windows-arm64.exe">Windows ARM</a> |
-            <a href="https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/JNU-EXAM-Downloader-linux-amd64">Linux</a>
+            <a id="link-win32" href="#">Windows x86</a> |
+            <a id="link-winArm" href="#">Windows ARM</a> |
+            <a id="link-linux" href="#">Linux</a>
+        </div>
+        
+        <div style="margin-top: 20px; font-size: 12px; color: #999;">
+            当前最新版本: <span id="version-tag">...</span>
         </div>
     </div>
 
     <script>
-        const baseUrl = "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest/download/";
-        
-        const files = {
-            win64: "JNU-EXAM-Downloader-windows-amd64.exe",
-            win32: "JNU-EXAM-Downloader-windows-386.exe",
-            winArm: "JNU-EXAM-Downloader-windows-arm64.exe",
-            linux: "JNU-EXAM-Downloader-linux-amd64"
-        };
-
+        const owner = "gubaiovo";
+        const repo = "JNU-EXAM-Downloader";
         const userAgent = navigator.userAgent;
+        
         const btn = document.getElementById('download-btn');
         const msg = document.getElementById('os-detect');
+        const versionSpan = document.getElementById('version-tag');
+        
+        const linkWin32 = document.getElementById('link-win32');
+        const linkWinArm = document.getElementById('link-winArm');
+        const linkLinux = document.getElementById('link-linux');
 
-        if (userAgent.indexOf("Win") != -1) {
-            msg.innerText = "识别到您使用的是 Windows";
-            
-            if (userAgent.indexOf("ARM") != -1 || userAgent.indexOf("Arm") != -1) {
-                 btn.innerHTML = "<span class='icon'>🪟</span>下载 Windows ARM 版";
-                 btn.href = baseUrl + files.winArm;
-            } else {
-                btn.innerHTML = "<span class='icon'>🪟</span>下载 Windows 版 (推荐)";
-                btn.href = baseUrl + files.win64;
-            }
-        } else if (userAgent.indexOf("Linux") != -1 && userAgent.indexOf("Android") == -1) {
-            msg.innerText = "识别到您使用的是 Linux";
-            btn.innerHTML = "<span class='icon'>🐧</span>下载 Linux 版";
-            btn.href = baseUrl + files.linux;
-        } else {
-            msg.innerText = "请从下方列表选择适合您的版本";
-            btn.innerText = "查看所有版本";
-            btn.href = "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/latest";
-        }
+        fetch(`https://api.github.com/repos/${owner}/${repo}/releases/latest`)
+            .then(response => {
+                if (!response.ok) throw new Error("API Limit or Network Error");
+                return response.json();
+            })
+            .then(data => {
+                const tag = data.tag_name;
+                versionSpan.innerText = tag;
+                
+                const filenames = {
+                    win64: `JNU-EXAM-Downloader-${tag}-windows-amd64.exe`,
+                    win32: `JNU-EXAM-Downloader-${tag}-windows-386.exe`,
+                    winArm: `JNU-EXAM-Downloader-${tag}-windows-arm64.exe`,
+                    linux: `JNU-EXAM-Downloader-${tag}-linux-amd64`
+                };
+
+                const downloadBase = `https://github.com/${owner}/${repo}/releases/download/${tag}/`;
+
+                linkWin32.href = downloadBase + filenames.win32;
+                linkWinArm.href = downloadBase + filenames.winArm;
+                linkLinux.href = downloadBase + filenames.linux;
+
+                btn.classList.remove("disabled"); 
+
+                if (userAgent.indexOf("Win") != -1) {
+                    msg.innerText = "识别到您使用的是 Windows";
+                    
+                    if (userAgent.indexOf("ARM") != -1 || userAgent.indexOf("Arm") != -1) {
+                         btn.innerHTML = "<span class='icon'>🪟</span>下载 Windows ARM 版";
+                         btn.href = downloadBase + filenames.winArm;
+                    } else {
+                        btn.innerHTML = "<span class='icon'>🪟</span>下载 Windows 版 (推荐)";
+                        btn.href = downloadBase + filenames.win64;
+                    }
+                } else if (userAgent.indexOf("Linux") != -1 && userAgent.indexOf("Android") == -1) {
+                    msg.innerText = "识别到您使用的是 Linux";
+                    btn.innerHTML = "<span class='icon'>🐧</span>下载 Linux 版";
+                    btn.href = downloadBase + filenames.linux;
+                } else {
+                    msg.innerText = "请从下方列表选择适合您的版本";
+                    btn.innerText = "前往 GitHub 下载页";
+                    btn.href = `https://github.com/${owner}/${repo}/releases/latest`;
+                }
+            })
+            .catch(error => {
+                console.error("Error fetching release:", error);
+                msg.innerText = "无法自动获取版本，请手动下载";
+                versionSpan.innerText = "未知";
+                btn.classList.remove("disabled");
+                btn.innerText = "前往 GitHub 下载页";
+                btn.href = `https://github.com/${owner}/${repo}/releases/latest`;
+                
+                linkWin32.href = btn.href;
+                linkWinArm.href = btn.href;
+                linkLinux.href = btn.href;
+            });
     </script>
 </body>
 </html>
