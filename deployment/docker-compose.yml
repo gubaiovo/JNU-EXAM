@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  jnu-exam:
+    build: .
+    container_name: jnu_exam_mirror
+    ports:
+      - "8080:80"
+    environment:
+      - TZ=Asia/Shanghai
+      # 自动更新间隔 (秒)
+      # 3600 = 1小时, 86400 = 1天, 0 = 关闭
+      - AUTO_UPDATE_INTERVAL=30 
+    volumes:
+      - ../:/app/repo
+      - ./sources.json:/app/config/sources.json
+    restart: always

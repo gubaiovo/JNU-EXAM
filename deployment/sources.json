@@ -1,0 +1,30 @@
+[
+  {
+    "name": "官方 Github",
+    "base": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/data",
+    "json_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json",
+    "type": "tree",
+    "key": "github_raw_url"
+  },
+  {
+    "name": "Cloudflare R2",
+    "base": "https://jnuexam.xyz",
+    "json_url": "https://jnuexam.xyz/directory_structure.json",
+    "type": "tree",
+    "key": "cf_url"
+  },
+  {
+    "name": "本地测试",
+    "base": "http://127.0.0.1:8080/data",
+    "json_url": "http://127.0.0.1:8080/directory_structure.json",
+    "type": "tree",
+    "key": "local_url"
+  },
+  {
+    "name": "本地测试2",
+    "base": "http://127.0.0.1:8080/data/",
+    "json_url": "http://127.0.0.1:8080/directory_structure.json",
+    "type": "tree",
+    "key": "local_url2"
+  }
+]
