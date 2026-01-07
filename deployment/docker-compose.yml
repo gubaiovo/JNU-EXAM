@@ -2,7 +2,9 @@ version: '3'
 
 services:
   jnu-exam:
-    build: .
+    # 想要本地构建镜像请取消注释第六行，并注释掉第七行
+    # build: .
+    image: gubaiovo/jnu-exam:latest
     container_name: jnu_exam_mirror
     ports:
       - "8080:80"
