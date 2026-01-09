@@ -1,113 +1,147 @@
-# 搭建新的下载源
+# 镜像站部署
 
-基础准备：
+**注意，PC端下载器使用镜像站请务必将下载器更新至 2.1.1 版本及以上**
 
-- 一个有公网 ip 的服务器
-- 一个存储服务器(可选)
-- 域名(可选)
+如果你拥有服务器资源，欢迎搭建 JNU-EXAM 的镜像站，帮助更多同学获取资料。
 
-## 1. 公网 IP
+本文档提供两种部署方式：
 
-如果你的公网 ip 是固定的，那么可以跳过此步
-如果不是固定的，你需要准备一个域名，并在你的服务器上安装 ddns 服务，推荐使用 ddns-go: https://github.com/jeessy2/ddns-go
-绑定好 ddns 服务后，进行下一步
+1. **Docker 部署**：开箱即用，自动同步 GitHub 资料
+2. **手动部署**：适合有特殊定制需求或无法使用 Docker / 无法访问 Github 的环境
 
-## 2. 选择存储方式
+## 方式一：Docker 部署
 
-有两种存储方式：
+我们提供了封装好的 Docker 镜像，内置了 Nginx 服务器和自动更新脚本。你无需配置 Python 环境或手动处理文件索引。
 
-1. 在你的服务器进行本地存储
-2. 选择市面上的存储服务，比如蓝奏云、Cloudflare R2 等
+### 1. 基础准备
 
-### 2.1 本地存储
+- 一台安装了 [Docker](https://docs.docker.com/get-docker/) 和 [Docker Compose](https://docs.docker.com/compose/install/) 的服务器
+- 足够的磁盘空间（建议预留 10GB 以上，用于存放资料。本稿完成时资料文件总大小为 3G）
 
-#### 2.1.1 获取资料，搭建访问服务
+### 2. 获取配置文件
 
-首先需要将资料存到本地：
+服务器克隆本项目仓库，并进入部署目录：
 
-```bash
+```shell
 git clone https://github.com/gubaiovo/JNU-EXAM.git
+cd JNU-EXAM/deployment
 ```
 
-选择访问方式：
+### 3. 配置下载源
 
-1. 使用简单的 http 服务
-2. 使用对象存储
+默认情况下，镜像站使用官方的 Github 和 Cloudflare R2。如果你希望用户通过你的服务器下载文件（即把你的服务器作为直链源），请修改 `sources.json`。
 
-对于第一种方式，只需要用 python 开启简单 http 服务即可：
+在 `deployment` 目录下创建或修改 `sources.json`：
 
-```bash
-python -m http.server
 ```
-
-对于第二种，推荐使用 RustFS 项目搭建对象存储服务：https://rustfs.com.cn/
-
-#### 2.1.2 生成源列表和文件索引列表{#2.1.2}
-
-`source_list`格式如下：
-
-```json
-{
-    "Github": {
-        "json_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json",
-        "file_key": "github_raw_url"
-    },
-    "Cloudflare R2": {
-        "json_url": "https://jnuexam.xyz/directory_structure.json",
-        "file_key": "cf_url"
-    },
-}
-```
-
-以 Github 源为例：
-
-- `"Github"`: **源名称**
-- `json_url`: **文件索引链接**
-- `file_key`: **在索引文件中，文件下载链接的键值**
-
-文件索引通过脚本生成：https://github.com/gubaiovo/DirTreeJson
-文件索引脚本中，全局变量`SOURCE`定义了索引文件中包含的源
-
-```python
-SOURCES = [
-    {
-        "name": "Github",
-        "key": "github_raw_url",
-        "base": "https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main",
-        "type": "tree",
-        "enabled": True
-    },
-    {
-        "name": "Gitee",
-        "key": "gitee_raw_url",
-        "base": "https://gitee.com/gubaiovo/jnu-exam/raw/main",
-        "type": "tree",
-        "enabled": False
-    }
+[
+  {
+    "name": "本站极速镜像",
+    "base": "http://你的服务器IP或域名/data",
+    "json_url": "http://你的服务器IP或域名/directory_structure.json",
+    "type": "tree",
+    "key": "mirror_url"
+  },
+  {
+    "name": "官方 Github (备用)",
+    "base": "[https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/data](https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/data)",
+    "json_url": "[https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json](https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json)",
+    "type": "tree"
+  }
 ]
 ```
 
-- `name`: 源名称
-- `key`: 文件下载链接的键值，需要与`source_list`中`file_key`相同
-- `type`: 包含两种方式
-  - `tree`: 以真实的文件树形式
-  - `flat`: 对于有文件夹层级限制的存储服务，需要减少文件夹层级次数。脚本会去除路径中的特殊符号，用 `__` 代替文件夹层级
-- `enabled`: 是否启用这个源，如果为 `False`，那么生成的索引文件不会包含这个源
+> **注意**：`base` 是文件下载的基础路径，`json_url` 是文件索引的访问路径。Docker 启动后会将资料映射到 Web 根目录，因此路径通常是 `/data` 和 `/directory_structure.json`。
 
-你需要修改文件索引脚本来匹配你的存储服务。你的脚本中`SOURCES`的`key`需要与`source_list`中的`file_key`一致
+### 4. 启动服务
 
-### 2.2 通过存储服务存储
+在 `deployment` 目录下执行：
 
-#### 2.2.1 上传文件
+```
+docker compose up -d
+```
 
-首先将所有资料下载到自己的电脑：
+启动后，访问 `http://你的IP:8080/directory_structure.json` 看到索引文件内容，即为搭建成功
 
-```bash
+### 5. 自动更新设置
+
+默认情况下，容器每 30 秒自动检查并拉取 GitHub 的最新资料。
+
+如需修改频率，请编辑 `docker-compose.yml`：
+
+```
+environment:
+  - AUTO_UPDATE_INTERVAL=3600  # 设置为 0 可关闭自动更新
+```
+
+## 方式二：手动部署
+
+如果你想完全控制文件存储方式（如使用对象存储、本地 NAS 等），可以选择手动部署。
+
+### 1. 获取资料
+
+首先将资料库克隆到本地：
+
+```shell
 git clone https://github.com/gubaiovo/JNU-EXAM.git
 ```
 
-打开存储服务控制面板，上传资料
+### 2. 搭建服务
 
-#### 2.2.2
+你需要一个 HTTP 服务来对外提供文件访问。
 
-参考 [2.1.2 生成源列表和文件索引列表](#2.1.2)
+- **简单测试**：使用 Python 快速启动 `python -m http.server 8000`。
+- **生产环境**：推荐使用 Nginx、Apache 或 对象存储服务，如[RustFS](https://rustfs.com.cn/)。
+
+### 3. 生成索引文件
+
+为了让下载器能正确显示文件列表，你需要生成 `directory_structure.json` 和 `source_list.json`。
+
+我们提供了 Python 脚本来完成此工作：
+
+1. 安装依赖：
+
+   确保安装了 Python 3。
+
+2. 配置脚本：
+
+   修改 deployment/generate_json.py（或参考该逻辑编写自己的脚本），定义你的存储源 SOURCES：
+
+   ```json
+   SOURCES = [
+       {
+           "name": "我的本地源",
+           "key": "local_url",
+           "base": "http://你的域名/data",  # 文件下载前缀
+           "type": "tree",                 # tree: 保持目录结构; flat: 扁平化(如蓝奏云)
+           "enabled": True
+       }
+   ]
+   ```
+
+3. **运行生成**：
+
+   ```shell
+   python3 deployment/generate_json.py
+   ```
+
+   生成的 json 文件将位于项目根目录
+
+## 配置文件详解 (sources.json)
+
+无论是 Docker 还是手动部署，核心都在于定义**下载源**。以下是字段说明：
+
+| **字段**   | **说明**                              | **示例**                                    |
+| ---------- | ------------------------------------- | ------------------------------------------- |
+| `name`     | 在前端显示的下载按钮名称              | `"校内镜像"`                                |
+| `base`     | 文件下载的基础 URL 前缀               | `"http://1.2.3.4/data"`                     |
+| `json_url` | **关键**：该源对应的索引文件地址      | `"http://1.2.3.4/directory_structure.json"` |
+| `type`     | 目录结构类型。`tree` (默认) 或 `flat` | `"tree"`                                    |
+| `key`      | 唯一标识符，建议使用英文              | `"school_mirror"`                           |
+
+**工作原理：**
+
+1. 用户访问你的镜像站
+2. 网页读取 `source_list.json`，获取所有可用源的列表
+3. 用户选择一个源，网页根据该源的 `json_url` 读取文件树
+4. 点击下载时，网页将 `base` + `文件相对路径` 拼接成最终下载链接
