@@ -1,0 +1,10 @@
+{
+    "Github": {
+        "json_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json",
+        "file_key": "github_raw_url"
+    },
+    "Cloudflare R2": {
+        "json_url": "https://jnuexam.xyz/directory_structure.json",
+        "file_key": "cf_url"
+    }
+}
