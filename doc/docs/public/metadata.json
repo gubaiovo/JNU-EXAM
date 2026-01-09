@@ -1,0 +1,31 @@
+{
+  "notice": {
+    "show": true,
+    "id": "20260109",
+    "title": "公告",
+    "content": "寒假支援招募计划正式开始\n\n收到反馈，部分资料存在内容误差、分类不明等问题，现\n召集各个专业志愿者对资料进行整理，具体要求如下：\n\n1. 检查资料内容是否正确\n2. 检查资料分类是否正确\n\n时间：寒假期间\n\n有意向可联系群主/管理"
+  },
+  "update": {
+    "version": "2.1.1",
+    "force": false,
+    "desc": "更新日志：\n1. 修复PC端下载器无法使用镜像源的bug。\n2. 增加公告和更新按钮。",
+    "platforms": {
+      "windows-amd64": {
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-windows-amd64.exe",
+        "checksum": "7ef23486553416b68d2dd88e6d9c29c158cefb8b3200e86cef91c8a2ca4e7b86"
+      },
+      "windows-386": {
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-windows-386.exe",
+        "checksum": "f60250c77a2cb13988b46631f529f86d01949b234fc61a4ed844785bece00ee6"
+      },
+      "windows-arm64": {
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-windows-arm64.exe",
+        "checksum": "f3da298ff6cb7f5f4ee836c6231921b7c3e3daf8612708f70f9a2df77fe232dc"
+      },
+      "linux-amd64": {
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-linux-amd64",
+        "checksum": "16ff293e2eadc77cbe55441375e613bf433b02dd17763e8c93ebeb0c37627e05"
+      }
+    }
+  }
+}
