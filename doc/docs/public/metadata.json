@@ -1,30 +1,30 @@
 {
   "notice": {
     "show": true,
-    "id": "20260109",
+    "id": "20260114",
     "title": "公告",
-    "content": "寒假支援招募计划正式开始\n\n收到反馈，部分资料存在内容误差、分类不明等问题，现\n召集各个专业志愿者对资料进行整理，具体要求如下：\n\n1. 检查资料内容是否正确\n2. 检查资料分类是否正确\n\n时间：寒假期间\n\n有意向可联系群主/管理"
+    "content": "寒假支援招募计划正式开始\n\n收到反馈，部分资料存在内容误差、分类不明等问题，现召集各个专业志愿者对资料进行整理，具体要求如下：\n\n1. 检查资料内容是否正确\n2. 检查资料分类是否正确\n\n时间：寒假期间\n\n有意向可联系群主/管理"
   },
   "update": {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "force": false,
-    "desc": "更新日志：\n1. 修复PC端下载器无法使用镜像源的bug。\n2. 增加公告和更新按钮。",
+    "desc": "更新日志：  \n1. PC端增加多选下载功能。  \n2. PC端修复如下bug:  \n    - 浅色模式下搜索列表字体为白色。  \n    - 文件列表中文件名居中而不是居左。  \n    - 更新后文件名错误问题。  \n3. PC端进行如下修改:    \n    - 修改默认source_list下载路径为[https://jnuexam.gubaiovo.com/source_list.json](https://jnuexam.gubaiovo.com/source_list.json)。  \n    - 优化动画流畅度，删除部分动画以提高性能，支持gpu加速动画。",
     "platforms": {
       "windows-amd64": {
-        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-windows-amd64.exe",
-        "checksum": "9ef9ea00e4f1ef50b1be31bf0eb924d6ce6c3d948194711f63fe8989402619b6"
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.2.0/JNU-EXAM-Downloader-v2.2.0-windows-amd64.exe",
+        "checksum": "6f962a8740704aead7602ba01b866f5c8df5fb1b0d1952d869505a8bf17d9c68"
       },
       "windows-386": {
-        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-windows-386.exe",
-        "checksum": "78f381b936d5ba0b6dcc5e5836cfeea35e23db3ba54c57b52eba22489b15d96b"
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.2.0/JNU-EXAM-Downloader-v2.2.0-windows-386.exe",
+        "checksum": "991a23f79fa2b7b54894c0f51ee364ac210b27c5c4269b373c7284d2d37212b3"
       },
       "windows-arm64": {
-        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-windows-arm64.exe",
-        "checksum": "c1cbb33f27c66236f6abe5ab5b955d3dd2336847b373552a774ba2bafa9a9300"
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.2.0/JNU-EXAM-Downloader-v2.2.0-windows-arm64.exe",
+        "checksum": "b156c059457484fa9c02104f23d815567df19dd58c0eed1975b142d5d79a5d32"
       },
       "linux-amd64": {
-        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.1.1/JNU-EXAM-Downloader-v2.1.1-linux-amd64",
-        "checksum": "f3f81fd1099b2dff67796e389c94ed11d02db58e92ef306804214942f1cc5d27"
+        "url": "https://github.com/gubaiovo/JNU-EXAM-Downloader/releases/download/v2.2.0/JNU-EXAM-Downloader-v2.2.0-linux-amd64",
+        "checksum": "4a3c1f270b6c859adc01bff262783f13a576eeb716f0a982e41d18d71a6e790e"
       }
     }
   }
