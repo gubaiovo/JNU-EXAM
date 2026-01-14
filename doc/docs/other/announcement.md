@@ -1,5 +1,15 @@
 # 公告区
-
+## 2026/01/14  
+更新日志：  
+1. PC端增加多选下载功能。  
+2. PC端修复如下bug:  
+    - 浅色模式下搜索列表字体为白色。  
+    - 文件列表中文件名居中而不是居左。  
+    - 更新后文件名错误问题。  
+3. PC端进行如下修改:    
+    - 修改默认source_list下载路径为[https://jnuexam.gubaiovo.com/source_list.json](https://jnuexam.gubaiovo.com/source_list.json)。  
+    - 优化动画流畅度，删除部分动画以提高性能，支持gpu加速动画。  
+    
 ## 2026/01/09  
 更新内容：  
 1. 修复PC端下载器无法使用镜像源的bug。   
