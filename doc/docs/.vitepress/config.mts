@@ -50,6 +50,7 @@ export default defineConfig({
         text: '其他',
         items: [
           { text: '公告', link: '/other/announcement' },
+          { text: '相关链接', link: '/other/links' },
           { text: '开源协议', link: '/other/license' },
         ],
       }

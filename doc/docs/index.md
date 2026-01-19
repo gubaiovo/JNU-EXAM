@@ -20,6 +20,9 @@ hero:
       text: 开始使用
       link: /about/what
     - theme: alt
+      text: 节点状态
+      link: https://kuma.gubaiovo.com/status/jnuexam
+    - theme: alt
       text: GitHub
       link: https://github.com/gubaiovo/JNU-EXAM
 ---
