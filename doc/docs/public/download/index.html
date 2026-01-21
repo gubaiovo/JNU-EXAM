@@ -90,16 +90,20 @@
             <transition name="dropdown">
                 <div v-if="showSourceMenu" class="absolute top-full left-0 mt-2 w-full md:w-60 bg-white rounded-2xl shadow-xl shadow-slate-200/60 border border-slate-100/80 overflow-hidden z-50 p-2 transform origin-top-left">
                     <div class="text-[10px] font-bold text-slate-400 px-3 py-2 uppercase tracking-widest">Available Nodes</div>
-                    <div v-for="(conf, name) in sourceConfig" :key="name" 
+                    
+                    <button type="button" 
+                         v-for="(conf, name) in sourceConfig" :key="name" 
                          @click="changeSource(name)"
-                         class="flex items-center gap-3 px-3 py-3 md:py-2.5 rounded-xl cursor-pointer text-sm transition-all duration-200 relative group"
+                         class="w-full flex items-center gap-3 px-3 py-3 md:py-2.5 rounded-xl cursor-pointer text-sm transition-all duration-200 relative group outline-none"
                          :class="currentSourceKey === name ? 'bg-indigo-50 text-indigo-700' : 'hover:bg-slate-50 text-slate-600'">
+                        
                         <i :class="currentSourceKey === name ? 'ri-radio-button-line' : 'ri-checkbox-blank-circle-line'" 
                            class="text-lg opacity-70 group-hover:opacity-100 transition-opacity"
                            :class="currentSourceKey === name ? 'text-indigo-600' : 'text-slate-300'"></i>
                         <span :class="{'font-semibold': currentSourceKey === name}">{{ name }}</span>
+                    
+                    </button>
                     </div>
-                </div>
             </transition>
         </div>
 
@@ -307,7 +311,7 @@
 
 <script>
     const { createApp, ref, computed, onMounted } = Vue;
-    const DEFAULT_CONFIG_URL = "https://www.gubaiovo.com/jnu-exam/source_list.json";
+    const DEFAULT_CONFIG_URL = "https://jnuexam.gubaiovo.com/source_list.json";
     const STORAGE_KEY = "custom_config_url";
 
     const TreeItem = {
