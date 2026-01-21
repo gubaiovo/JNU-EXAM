@@ -1,5 +1,5 @@
 {
-    "Github": {
+    "官方 Github": {
         "json_url": "https://github.com/gubaiovo/JNU-EXAM/raw/main/directory_structure.json",
         "file_key": "github_raw_url"
     },
@@ -8,7 +8,7 @@
         "file_key": "cf_url"
     },
     "float": {
-        "json_url": "https://jnuexam.142751.xyz/source_list.json",
+        "json_url": "https://jnuexam.142751.xyz/directory_structure.json",
         "file_key": "float_url"
     }
 }
