@@ -32,10 +32,9 @@ Web 端下载器直接访问 [https://jnuexam.gubaiovo.com/download/index.html](
 下面提供了一些公开的获取下载源的链接(url)：
 
 1. Vercel（新版默认）：`https://jnuexam.gubaiovo.com/source_list.json`  
-2. Vercel（旧版默认）：`https://www.gubaiovo.com/jnu-exam/source_list.json`  
-3. Github: `https://raw.githubusercontent.com/gubaiovo/JNU-EXAM/main/doc/docs/public/source_list.json`  
-4. Cloudflare R2: `https://jnuexam.xyz/source_list.json`  
-5. Floating提供: `https://jnuexam.floatawa.top:11451/source_list.json`  
+2. Vercel（即将停用）：`https://www.gubaiovo.com/jnu-exam/source_list.json`    
+3. Cloudflare R2: `https://jnuexam.xyz/source_list.json`  
+4. Floating提供: `https://jnuexam.142751.xyz/source_list.json`  
 
 ## 2. 选择下载源
 
