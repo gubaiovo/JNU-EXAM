@@ -1,6 +1,6 @@
 # 相关链接
 
-**JNU-EXAM 文档**：[https://jnuexam.gubaiovo.com/](https://jnuexam.gubaiovo.com/)  
+**JNU-EXAM 文档**：[https://jnuexam.gubaiovo.com](https://jnuexam.gubaiovo.com/)  
 
 **JNU-EXAM Github**: [https://github.com/gubaiovo/JNU-EXAM](https://github.com/gubaiovo/JNU-EXAM)  
 
