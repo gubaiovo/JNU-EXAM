@@ -7,6 +7,10 @@
         "json_url": "https://jnuexam.xyz/directory_structure.json",
         "file_key": "cf_url"
     },
+    "Cloudflare R2 测试": {
+        "json_url": "https://jnuexamfile.gubaiovo.com/directory_structure.json",
+        "file_key": "cf_url_test"
+    },
     "float": {
         "json_url": "https://jnuexam.142751.xyz/directory_structure.json",
         "file_key": "float_url"
